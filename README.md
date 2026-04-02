@@ -38,12 +38,17 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 
 ## 🎞️ Çekirdek Külliyattan Öne Çıkanlar (Masterpieces)
 
-Arşive dahil edilen ve analizi devam eden onlarca yapımdan bazıları, sinema tarihinin gidişatını tek başına değiştiren devasa kilometre taşlarıdır. İşte inceleme bekleyen o devlerden birkaçı:
+Arşive dahil edilen ve analizi devam eden onlarca yapımdan bazıları, sinema tarihinin gidişatını tek başına değiştiren devasa kilometre taşlarıdır. İşte inceleme bekleyen o elit devlerden birkaçı:
 
 - 🌌 **2001: A Space Odyssey (1968):** Kubrick'in; insanlığın evrimine, yapay zekanın ontolojik sessizliğine ve evrenin acımasız soğukluğuna kamerasını çevirdiği, uzun kurgu sekanslarıyla sinemayı görsel bir senfoniye çeviren başyapıt.
 - ☢️ **Stalker (1979):** Tarkovsky'nin; inancı, çaresizliği ve insanın en karanlık/bencil içgüdüsel arzularını test ettiği, şiirsel sinemanın zirve noktası olan o mistik "Bölge" (Zone) tasviri.
+- 🕴️ **The Godfather (1972):** Coppola'nın Amerikan rüyasını, aileyi ve şiddetin doğasını bir mafya hanedanlığı üzerinden okuduğu, güç yozlaşmasının kusursuz tasvir edildiği sinematik opera.
+- 👁️ **City of God (2002):** Sokrakların çiğ, belgeselvari anlatımını kinektik kurguyla birleştirerek Rio de Janeiro favelalarındaki suç döngüsünü ritmik bir başyapıta dönüştüren Brezilya şaheseri.
 - 🤠 **The Good, the Bad and the Ugly (1966):** Sergio Leone'nin, Ennio Morricone'nin kusursuz besteleriyle kurguyu dans ettirdiği, Western türünü ikonize ederek görsel mühendisliği devasa arenalara taşıdığı o kanlı destan.
+- ⚔️ **Seven Samurai (1954):** Kurosawa'nın dinamik aksiyon geometrisini ve karakter inşasını yağmur altındaki savaş sekanslarıyla harmanladığı, modern sinemaya tek başına yön veren o Asya destanı.
+- 🚁 **Apocalypse Now (1979):** Savaşın fiziksel yıkımından ziyade, otoriteden koparak insan zihninin mutlak deliliğe sürüklendiği o kâbusvari ve travmatik nehir yolculuğu.
 - 🎭 **Persona (1966):** Ingmar Bergman'ın, insan psişesini ve maskelerini (Persona) iki kadının zihinsel çatışması üzerinden paramparça ettiği, kimlik kavramını dekonstrükte eden klostrofobik labirent.
+- 🌿 **Pan's Labyrinth (2006):** Del Toro'nun, faşizmin ve savaşın yarattığı gerçeklik travmasını mitolojik, kanlı ve gotik bir fantezi dünyasıyla ustaca sentezlediği karanlık peri masalı.
 - 🔥 **Grave of the Fireflies (1988):** Savaşın, çaresizliğin ve militarizmin en masum ama en travmatik yüzünü "animasyon" sınırlarının ötesine taşıyarak izleyicisini duygusal bir infaza uğratan Takahata klasiği.
 
 ## 📂 Depo Hiyerarşisi ve Epistemolojik Ontolojisi
