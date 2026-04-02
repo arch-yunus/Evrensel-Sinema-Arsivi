@@ -35,13 +35,37 @@ Arşivimiz, filmlerin dramatik altyapılarına ve janrlarına göre sistematik o
 
 ```text
 📦 Evrensel-Sinema-Arsivi
+ ┣ 📂 Asya-Sinemasi
+ ┃ ┣ 📜 Oldboy-2003.md
+ ┃ ┣ 📜 Parasite-2019.md
+ ┃ ┣ 📜 Seven-Samurai-1954.md
+ ┃ ┗ 📜 Spirited-Away-2001.md
+ ┣ 📂 Avrupa-Sinemasi
+ ┃ ┣ 📜 Amelie-2001.md
+ ┃ ┣ 📜 Cinema-Paradiso-1988.md
+ ┃ ┣ 📜 Life-is-Beautiful-1997.md
+ ┃ ┗ 📜 The-400-Blows-1959.md
  ┣ 📂 Bilim-Kurgu-ve-Distopya
  ┃ ┣ 📜 2001-A-Space-Odyssey-1968.md
  ┃ ┣ 📜 A-Clockwork-Orange-1971.md
  ┃ ┣ 📜 Blade-Runner-1982.md
  ┃ ┣ 📜 Interstellar-2014.md
  ┃ ┣ 📜 Mad-Max-Fury-Road-2015.md
- ┃ ┗ 📜 The-Matrix-1999.md
+ ┃ ┣ 📜 The-Matrix-1999.md
+ ┃ ┗ 📜 The-Truman-Show-1998.md
+ ┣ 📂 Dram-ve-Suc
+ ┃ ┣ 📜 12-Angry-Men-1957.md
+ ┃ ┣ 📜 City-of-God-2002.md
+ ┃ ┣ 📜 Forrest-Gump-1994.md
+ ┃ ┣ 📜 Goodfellas-1990.md
+ ┃ ┣ 📜 Pulp-Fiction-1994.md
+ ┃ ┣ 📜 The-Godfather-1972.md
+ ┃ ┗ 📜 The-Shawshank-Redemption-1994.md
+ ┣ 📂 Korku-ve-Paranormal
+ ┃ ┣ 📜 Alien-1979.md
+ ┃ ┣ 📜 Psycho-1960.md
+ ┃ ┣ 📜 The-Exorcist-1973.md
+ ┃ ┗ 📜 The-Shining-1980.md
  ┣ 📂 Psikolojik-Gerilim-ve-Gizem
  ┃ ┣ 📜 Fight-Club-1999.md
  ┃ ┣ 📜 Memento-2000.md
@@ -49,25 +73,23 @@ Arşivimiz, filmlerin dramatik altyapılarına ve janrlarına göre sistematik o
  ┃ ┣ 📜 Shutter-Island-2010.md
  ┃ ┣ 📜 Taxi-Driver-1976.md
  ┃ ┗ 📜 The-Silence-of-the-Lambs-1991.md
+ ┣ 📂 Romantik-ve-Melodram
+ ┃ ┣ 📜 Before-Sunrise-1995.md
+ ┃ ┣ 📜 Casablanca-1942.md
+ ┃ ┣ 📜 Eternal-Sunshine-of-the-Spotless-Mind-2004.md
+ ┃ ┗ 📜 Her-2013.md
+ ┣ 📂 Sanat-ve-Bagimsiz-Sinema
+ ┃ ┣ 📜 Mulholland-Drive-2001.md
+ ┃ ┣ 📜 Persona-1966.md
+ ┃ ┗ 📜 Stalker-1979.md
  ┣ 📂 Savas-ve-Antimilitarizm
  ┃ ┣ 📜 Apocalypse-Now-1979.md
  ┃ ┣ 📜 Come-and-See-1985.md
  ┃ ┣ 📜 Full-Metal-Jacket-1987.md
  ┃ ┗ 📜 Saving-Private-Ryan-1998.md
- ┣ 📂 Sanat-ve-Bagimsiz-Sinema
- ┃ ┣ 📜 Mulholland-Drive-2001.md
- ┃ ┣ 📜 Persona-1966.md
- ┃ ┗ 📜 Stalker-1979.md
  ┣ 📂 Tarihi-ve-Epik
  ┃ ┣ 📜 Schindlers-List-1993.md
  ┃ ┗ 📜 The-Pianist-2002.md
- ┣ 📂 Dram-ve-Suc
- ┃ ┣ 📜 12-Angry-Men-1957.md
- ┃ ┣ 📜 City-of-God-2002.md
- ┃ ┣ 📜 Goodfellas-1990.md
- ┃ ┣ 📜 Pulp-Fiction-1994.md
- ┃ ┣ 📜 The-Godfather-1972.md
- ┃ ┗ 📜 The-Shawshank-Redemption-1994.md
  ┣ 📜 CONTRIBUTING.md (Kolektif Katkı Protokolü)
  ┣ 📜 LICENSE (MIT)
  ┗ 📜 SABLON.md (Standart İnceleme Modülü)
