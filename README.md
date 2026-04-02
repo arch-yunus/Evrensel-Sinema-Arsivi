@@ -36,18 +36,36 @@ Arşivimiz, filmlerin dramatik altyapılarına ve janrlarına göre sistematik o
 ```text
 📦 Evrensel-Sinema-Arsivi
  ┣ 📂 Bilim-Kurgu-ve-Distopya
+ ┃ ┣ 📜 2001-A-Space-Odyssey-1968.md
+ ┃ ┣ 📜 A-Clockwork-Orange-1971.md
  ┃ ┣ 📜 Blade-Runner-1982.md
  ┃ ┣ 📜 Interstellar-2014.md
+ ┃ ┣ 📜 Mad-Max-Fury-Road-2015.md
  ┃ ┗ 📜 The-Matrix-1999.md
  ┣ 📂 Psikolojik-Gerilim-ve-Gizem
  ┃ ┣ 📜 Fight-Club-1999.md
  ┃ ┣ 📜 Memento-2000.md
- ┃ ┗ 📜 Se7en-1995.md
+ ┃ ┣ 📜 Se7en-1995.md
+ ┃ ┣ 📜 Shutter-Island-2010.md
+ ┃ ┣ 📜 Taxi-Driver-1976.md
+ ┃ ┗ 📜 The-Silence-of-the-Lambs-1991.md
+ ┣ 📂 Savas-ve-Antimilitarizm
+ ┃ ┣ 📜 Apocalypse-Now-1979.md
+ ┃ ┣ 📜 Come-and-See-1985.md
+ ┃ ┣ 📜 Full-Metal-Jacket-1987.md
+ ┃ ┗ 📜 Saving-Private-Ryan-1998.md
+ ┣ 📂 Sanat-ve-Bagimsiz-Sinema
+ ┃ ┣ 📜 Mulholland-Drive-2001.md
+ ┃ ┣ 📜 Persona-1966.md
+ ┃ ┗ 📜 Stalker-1979.md
  ┣ 📂 Tarihi-ve-Epik
  ┃ ┣ 📜 Schindlers-List-1993.md
  ┃ ┗ 📜 The-Pianist-2002.md
  ┣ 📂 Dram-ve-Suc
  ┃ ┣ 📜 12-Angry-Men-1957.md
+ ┃ ┣ 📜 City-of-God-2002.md
+ ┃ ┣ 📜 Goodfellas-1990.md
+ ┃ ┣ 📜 Pulp-Fiction-1994.md
  ┃ ┣ 📜 The-Godfather-1972.md
  ┃ ┗ 📜 The-Shawshank-Redemption-1994.md
  ┣ 📜 CONTRIBUTING.md (Kolektif Katkı Protokolü)
