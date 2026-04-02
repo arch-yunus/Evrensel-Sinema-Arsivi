@@ -36,6 +36,16 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 - **🎼 İşitsel Biyom ve Kognitif Ses Tasarımı:** Filmin görünmeyen karakteri olarak "Ses". Foley sanatının gerilim yaratmadaki etkisi, ölümcül sessizliklerin bir silah gibi kullanılması, ambiyans yönetimleri ve usta bestecilerin seyirci üzerindeki nörolojik dominasyonu.
 - **⏱️ Kurgusal Ritim (Montaj Estetiği):** Kesmelerin sekansı, sahnelerin birbirine olan ironik veya nedensel bağı ve izleyicinin zaman algısıyla oynanan (Flashback, Flashforward, Non-linear anlatı) montaj teknikleri.
 
+## 🎞️ Çekirdek Külliyattan Öne Çıkanlar (Masterpieces)
+
+Arşive dahil edilen ve analizi devam eden onlarca yapımdan bazıları, sinema tarihinin gidişatını tek başına değiştiren devasa kilometre taşlarıdır. İşte inceleme bekleyen o devlerden birkaçı:
+
+- 🌌 **2001: A Space Odyssey (1968):** Kubrick'in; insanlığın evrimine, yapay zekanın ontolojik sessizliğine ve evrenin acımasız soğukluğuna kamerasını çevirdiği, uzun kurgu sekanslarıyla sinemayı görsel bir senfoniye çeviren başyapıt.
+- ☢️ **Stalker (1979):** Tarkovsky'nin; inancı, çaresizliği ve insanın en karanlık/bencil içgüdüsel arzularını test ettiği, şiirsel sinemanın zirve noktası olan o mistik "Bölge" (Zone) tasviri.
+- 🤠 **The Good, the Bad and the Ugly (1966):** Sergio Leone'nin, Ennio Morricone'nin kusursuz besteleriyle kurguyu dans ettirdiği, Western türünü ikonize ederek görsel mühendisliği devasa arenalara taşıdığı o kanlı destan.
+- 🎭 **Persona (1966):** Ingmar Bergman'ın, insan psişesini ve maskelerini (Persona) iki kadının zihinsel çatışması üzerinden paramparça ettiği, kimlik kavramını dekonstrükte eden klostrofobik labirent.
+- 🔥 **Grave of the Fireflies (1988):** Savaşın, çaresizliğin ve militarizmin en masum ama en travmatik yüzünü "animasyon" sınırlarının ötesine taşıyarak izleyicisini duygusal bir infaza uğratan Takahata klasiği.
+
 ## 📂 Depo Hiyerarşisi ve Epistemolojik Ontolojisi
 
 Arşivimiz, filmlerin dramatik dokularına, tematik izlerine ve tarihsel kütüphane janrlarına göre kelimenin tam anlamıyla "evrensel" bir ontolojiye oturtularak tasnif edilmiştir. Sürekli genişlemeye, iteratif güncellemeler almaya ve yatay/dikey formellikte büyümeye son derece müsait olan bu makro mimari ağaç, an itibariyle aşağıdaki devasa arterler üzerinden gelişimini sürdürmektedir:
