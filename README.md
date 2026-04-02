@@ -35,7 +35,14 @@ Arşivimiz, filmlerin dramatik altyapılarına ve janrlarına göre sistematik o
 
 ```text
 📦 Evrensel-Sinema-Arsivi
+ ┣ 📂 Animasyon-ve-Cizgi-Sinema
+ ┃ ┣ 📜 Grave-of-the-Fireflies-1988.md
+ ┃ ┣ 📜 Spider-Man-Into-the-Spider-Verse-2018.md
+ ┃ ┣ 📜 The-Lion-King-1994.md
+ ┃ ┗ 📜 Toy-Story-1995.md
  ┣ 📂 Asya-Sinemasi
+ ┃ ┣ 📜 Chungking-Express-1994.md
+ ┃ ┣ 📜 In-the-Mood-for-Love-2000.md
  ┃ ┣ 📜 Oldboy-2003.md
  ┃ ┣ 📜 Parasite-2019.md
  ┃ ┣ 📜 Seven-Samurai-1954.md
@@ -59,8 +66,15 @@ Arşivimiz, filmlerin dramatik altyapılarına ve janrlarına göre sistematik o
  ┃ ┣ 📜 Forrest-Gump-1994.md
  ┃ ┣ 📜 Goodfellas-1990.md
  ┃ ┣ 📜 Pulp-Fiction-1994.md
+ ┃ ┣ 📜 Scarface-1983.md
+ ┃ ┣ 📜 The-Departed-2006.md
  ┃ ┣ 📜 The-Godfather-1972.md
  ┃ ┗ 📜 The-Shawshank-Redemption-1994.md
+ ┣ 📂 Fantastik-ve-Macera
+ ┃ ┣ 📜 Pans-Labyrinth-2006.md
+ ┃ ┣ 📜 The-Lord-of-the-Rings-The-Fellowship-of-the-Ring-2001.md
+ ┃ ┣ 📜 The-Lord-of-the-Rings-The-Return-of-the-King-2003.md
+ ┃ ┗ 📜 The-Lord-of-the-Rings-The-Two-Towers-2002.md
  ┣ 📂 Korku-ve-Paranormal
  ┃ ┣ 📜 Alien-1979.md
  ┃ ┣ 📜 Psycho-1960.md
@@ -81,7 +95,9 @@ Arşivimiz, filmlerin dramatik altyapılarına ve janrlarına göre sistematik o
  ┣ 📂 Sanat-ve-Bagimsiz-Sinema
  ┃ ┣ 📜 Mulholland-Drive-2001.md
  ┃ ┣ 📜 Persona-1966.md
- ┃ ┗ 📜 Stalker-1979.md
+ ┃ ┣ 📜 Requiem-for-a-Dream-2000.md
+ ┃ ┣ 📜 Stalker-1979.md
+ ┃ ┗ 📜 Trainspotting-1996.md
  ┣ 📂 Savas-ve-Antimilitarizm
  ┃ ┣ 📜 Apocalypse-Now-1979.md
  ┃ ┣ 📜 Come-and-See-1985.md
@@ -90,6 +106,11 @@ Arşivimiz, filmlerin dramatik altyapılarına ve janrlarına göre sistematik o
  ┣ 📂 Tarihi-ve-Epik
  ┃ ┣ 📜 Schindlers-List-1993.md
  ┃ ┗ 📜 The-Pianist-2002.md
+ ┣ 📂 Western-ve-Eski-Bati
+ ┃ ┣ 📜 Django-Unchained-2012.md
+ ┃ ┣ 📜 Once-Upon-a-Time-in-the-West-1968.md
+ ┃ ┣ 📜 The-Good-the-Bad-and-the-Ugly-1966.md
+ ┃ ┗ 📜 Unforgiven-1992.md
  ┣ 📜 CONTRIBUTING.md (Kolektif Katkı Protokolü)
  ┣ 📜 LICENSE (MIT)
  ┗ 📜 SABLON.md (Standart İnceleme Modülü)
