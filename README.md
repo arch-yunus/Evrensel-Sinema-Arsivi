@@ -53,81 +53,81 @@ Arşivimiz, filmlerin dramatik dokularına, tematik izlerine ve tarihsel kütüp
 ```text
 📦 Evrensel-Sinema-Arsivi
  ┣ 📂 Animasyon-ve-Cizgi-Sinema
- ┃ ┣ 📜 Grave-of-the-Fireflies-1988.md
- ┃ ┣ 📜 Spider-Man-Into-the-Spider-Verse-2018.md
- ┃ ┣ 📜 The-Lion-King-1994.md
- ┃ ┗ 📜 Toy-Story-1995.md
+ ┃ ┣ 📜 Grave-of-the-Fireflies-1988.md                    — Savaşın en travmatik ve masum hali.
+ ┃ ┣ 📜 Spider-Man-Into-the-Spider-Verse-2018.md          — Kare hızı manipülasyonu ve görsel devrim.
+ ┃ ┣ 📜 The-Lion-King-1994.md                             — Shakespearevari ihanet ve varoluş döngüsü.
+ ┃ ┗ 📜 Toy-Story-1995.md                                 — Antropomorfik objelerin 3D boyuttaki ilk ayak izi.
  ┣ 📂 Asya-Sinemasi
- ┃ ┣ 📜 Chungking-Express-1994.md
- ┃ ┣ 📜 In-the-Mood-for-Love-2000.md
- ┃ ┣ 📜 Oldboy-2003.md
- ┃ ┣ 📜 Parasite-2019.md
- ┃ ┣ 📜 Seven-Samurai-1954.md
- ┃ ┗ 📜 Spirited-Away-2001.md
+ ┃ ┣ 📜 Chungking-Express-1994.md                         — Şehir yalnızlığının kinetik ve neon melankolisi.
+ ┃ ┣ 📜 In-the-Mood-for-Love-2000.md                      — Aşkın ve hüznün kusursuz görsel koreografisi.
+ ┃ ┣ 📜 Oldboy-2003.md                                    — İntikamın, vahşetin ve ensestin kanlı şiiri.
+ ┃ ┣ 📜 Parasite-2019.md                                  — Sınıfsal anatominin mimari üzerinden kusursuz inşası.
+ ┃ ┣ 📜 Seven-Samurai-1954.md                             — Kurosawa'nın epik aksiyon geometrisi.
+ ┃ ┗ 📜 Spirited-Away-2001.md                             — Ruhlar aleminin büyüleyici animistik ekosistemi.
  ┣ 📂 Avrupa-Sinemasi
- ┃ ┣ 📜 Amelie-2001.md
- ┃ ┣ 📜 Cinema-Paradiso-1988.md
- ┃ ┣ 📜 Life-is-Beautiful-1997.md
- ┃ ┗ 📜 The-400-Blows-1959.md
+ ┃ ┣ 📜 Amelie-2001.md                                    — Paris'in absürd, tatlı ve yeşil-kırmızı simetrisi.
+ ┃ ┣ 📜 Cinema-Paradiso-1988.md                           — Sinema makinesinin romantize edilmiş nostaljisi.
+ ┃ ┣ 📜 Life-is-Beautiful-1997.md                         — Trajedinin mizahla maskelenmiş acımasız absürdlüğü.
+ ┃ ┗ 📜 The-400-Blows-1959.md                             — Fransız Yeni Dalgasının isyankar kamerasızlığı.
  ┣ 📂 Bilim-Kurgu-ve-Distopya
- ┃ ┣ 📜 2001-A-Space-Odyssey-1968.md
- ┃ ┣ 📜 A-Clockwork-Orange-1971.md
- ┃ ┣ 📜 Blade-Runner-1982.md
- ┃ ┣ 📜 Interstellar-2014.md
- ┃ ┣ 📜 Mad-Max-Fury-Road-2015.md
- ┃ ┣ 📜 The-Matrix-1999.md
- ┃ ┗ 📜 The-Truman-Show-1998.md
+ ┃ ┣ 📜 2001-A-Space-Odyssey-1968.md                      — Evrimin, monolitin ve karanlık uzayın ürkütücü senfonisi.
+ ┃ ┣ 📜 A-Clockwork-Orange-1971.md                        — Otoritenin ve şiddetin Beethoven eşliğinde distopik dansı.
+ ┃ ┣ 📜 Blade-Runner-1982.md                              — Cyberpunk neonlarının altındaki sentetik varoluş krizi.
+ ┃ ┣ 📜 Interstellar-2014.md                              — Relativitenin ve astrofiziğin duygusal yerçekimi.
+ ┃ ┣ 📜 Mad-Max-Fury-Road-2015.md                         — Kıyamet sonrası çölün kinetik enerji patlaması.
+ ┃ ┣ 📜 The-Matrix-1999.md                                — Platon'un mağara alegorisinin siberpunk simülasyonu.
+ ┃ ┗ 📜 The-Truman-Show-1998.md                           — Medyanın gözetim toplumu ve sahte tanrıcılık eleştirisi.
  ┣ 📂 Dram-ve-Suc
- ┃ ┣ 📜 12-Angry-Men-1957.md
- ┃ ┣ 📜 City-of-God-2002.md
- ┃ ┣ 📜 Forrest-Gump-1994.md
- ┃ ┣ 📜 Goodfellas-1990.md
- ┃ ┣ 📜 Pulp-Fiction-1994.md
- ┃ ┣ 📜 Scarface-1983.md
- ┃ ┣ 📜 The-Departed-2006.md
- ┃ ┣ 📜 The-Godfather-1972.md
- ┃ ┗ 📜 The-Shawshank-Redemption-1994.md
+ ┃ ┣ 📜 12-Angry-Men-1957.md                              — Tek odada geçen klostrofobik bir Amerikan adelet şüpheciliği.
+ ┃ ┣ 📜 City-of-God-2002.md                               — Favela sokaklarının çiğ, belgeselvari suç frekansı.
+ ┃ ┣ 📜 Forrest-Gump-1994.md                              — Amerikan tarihinin bir otistiğin gözünden sürreal geçişi.
+ ┃ ┣ 📜 Goodfellas-1990.md                                — Mafya mitinin Scorsese kurgusuyla sarsılmaz çöküşü.
+ ┃ ┣ 📜 Pulp-Fiction-1994.md                              — Popüler kültürün non-linear Tarantino kıyma makinesi.
+ ┃ ┣ 📜 Scarface-1983.md                                  — Kapitalizmin ve hırsın neon-kan banyosunda boğuluşu.
+ ┃ ┣ 📜 The-Departed-2006.md                              — Köstebeklerin Boston sokaklarındaki paranoyak satranç oyunu.
+ ┃ ┣ 📜 The-Godfather-1972.md                             — Gücün, ailenin ve yozlaşmanın kusursuz Amerikan operası.
+ ┃ ┗ 📜 The-Shawshank-Redemption-1994.md                  — Umudun ve zamanın gri taş duvarlar arasındaki zaferi.
  ┣ 📂 Fantastik-ve-Macera
- ┃ ┣ 📜 Pans-Labyrinth-2006.md
- ┃ ┣ 📜 The-Lord-of-the-Rings-The-Fellowship-of-the-Ring-2001.md
- ┃ ┣ 📜 The-Lord-of-the-Rings-The-Return-of-the-King-2003.md
- ┃ ┗ 📜 The-Lord-of-the-Rings-The-Two-Towers-2002.md
+ ┃ ┣ 📜 Pans-Labyrinth-2006.md                            — Faşizmin karanlık masallarla organik ve kanlı savaşı.
+ ┃ ┣ 📜 The-Lord-of-the-Rings-The-Fellowship-of-the-Ring-2001.md — Devasa epik fantezinin dünyevi temellerinin atılışı.
+ ┃ ┣ 📜 The-Lord-of-the-Rings-The-Return-of-the-King-2003.md     — Mitolojik savaşın ve görsel mimarinin kesin zaferi.
+ ┃ ┗ 📜 The-Lord-of-the-Rings-The-Two-Towers-2002.md             — CGI ve kurgu devriminin Helm's Deep ile şahlanışı.
  ┣ 📂 Korku-ve-Paranormal
- ┃ ┣ 📜 Alien-1979.md
- ┃ ┣ 📜 Psycho-1960.md
- ┃ ┣ 📜 The-Exorcist-1973.md
- ┃ ┗ 📜 The-Shining-1980.md
+ ┃ ┣ 📜 Alien-1979.md                                     — Uzayın karanlığında endüstriyel ve klostrofobik bir izolasyon.
+ ┃ ┣ 📜 Psycho-1960.md                                    — Duş sahnesiyle sinematografik cinayet devriminin miladı.
+ ┃ ┣ 📜 The-Exorcist-1973.md                              — İnancın karanlık varlıklarla yaşadığı sinir bozucu imtihan.
+ ┃ ┗ 📜 The-Shining-1980.md                               — Simetrinin ve yalıtımın insanı delirten Kubrick geometrisi.
  ┣ 📂 Psikolojik-Gerilim-ve-Gizem
- ┃ ┣ 📜 Fight-Club-1999.md
- ┃ ┣ 📜 Memento-2000.md
- ┃ ┣ 📜 Se7en-1995.md
- ┃ ┣ 📜 Shutter-Island-2010.md
- ┃ ┣ 📜 Taxi-Driver-1976.md
- ┃ ┗ 📜 The-Silence-of-the-Lambs-1991.md
+ ┃ ┣ 📜 Fight-Club-1999.md                                — Tüketim toplumunun nihilist ve şizofrenik bir altkültür isyanı.
+ ┃ ┣ 📜 Memento-2000.md                                   — Hafızanın parçalanan zamansal kurgusu ve geriye doğru akışı.
+ ┃ ┣ 📜 Se7en-1995.md                                     — Yedi ölümcül günahın kapkaranlık, umutsuz ve pislik dolu şehri.
+ ┃ ┣ 📜 Shutter-Island-2010.md                            — Deliliğin ve travmanın gotik bir adada kurduğu zihinsel hapishane.
+ ┃ ┣ 📜 Taxi-Driver-1976.md                               — Şehir yabancılaşmasının ve uykusuzluğun kanlı patlaması.
+ ┃ ┗ 📜 The-Silence-of-the-Lambs-1991.md                  — İki zekanın kalın camlar arkasındaki manipülatif psikolojik satrancı.
  ┣ 📂 Romantik-ve-Melodram
- ┃ ┣ 📜 Before-Sunrise-1995.md
- ┃ ┣ 📜 Casablanca-1942.md
- ┃ ┣ 📜 Eternal-Sunshine-of-the-Spotless-Mind-2004.md
- ┃ ┗ 📜 Her-2013.md
+ ┃ ┣ 📜 Before-Sunrise-1995.md                            — Diyalogların akıcılığıyla 24 saatlik geçici bir rüya boyutu.
+ ┃ ┣ 📜 Casablanca-1942.md                                — İkinci Dünya Savaşı'nın dumanlı, fedakar ve klasik romantizmi.
+ ┃ ┣ 📜 Eternal-Sunshine-of-the-Spotless-Mind-2004.md     — Hafızanın silik koridorlarında acının ve melankolinin inşası.
+ ┃ ┗ 📜 Her-2013.md                                       — Kodlanmış bir işletim sistemine duyulan yalnız metropolis aşkı.
  ┣ 📂 Sanat-ve-Bagimsiz-Sinema
- ┃ ┣ 📜 Mulholland-Drive-2001.md
- ┃ ┣ 📜 Persona-1966.md
- ┃ ┣ 📜 Requiem-for-a-Dream-2000.md
- ┃ ┣ 📜 Stalker-1979.md
- ┃ ┗ 📜 Trainspotting-1996.md
+ ┃ ┣ 📜 Mulholland-Drive-2001.md                          — Hollywood rüyasının paramparça olmuş şizofrenik Lynch kabusu.
+ ┃ ┣ 📜 Persona-1966.md                                   — İki ruhun, iki bedenin sessizlikle ve yüzlerle eridiği ontolojik buhran.
+ ┃ ┣ 📜 Requiem-for-a-Dream-2000.md                       — Bağımlılığın acımasız temposuyla parçalanan bir "Hızlı Çekim" cehennemi.
+ ┃ ┣ 📜 Stalker-1979.md                                   — Görünmeyen inancın, post-apokaliptik bir kurguda felsefi arayışı.
+ ┃ ┗ 📜 Trainspotting-1996.md                             — Eroin alt kültürünün çamurlu, kinetik ve dumanlı isyanı.
  ┣ 📂 Savas-ve-Antimilitarizm
- ┃ ┣ 📜 Apocalypse-Now-1979.md
- ┃ ┣ 📜 Come-and-See-1985.md
- ┃ ┣ 📜 Full-Metal-Jacket-1987.md
- ┃ ┗ 📜 Saving-Private-Ryan-1998.md
+ ┃ ┣ 📜 Apocalypse-Now-1979.md                            — Vietnam ormanlarının derinliklerinde mutlak deliliğin Coppola tablosu.
+ ┃ ┣ 📜 Come-and-See-1985.md                              — İkinci Dünya Savaşı cehenneminin sağır edici ve travmatik realizmi.
+ ┃ ┣ 📜 Full-Metal-Jacket-1987.md                         — Militarizmin robotlaştırdığı insan zihninin iki perdeli ölüm gösterisi.
+ ┃ ┗ 📜 Saving-Private-Ryan-1998.md                       — Omaha Plajı'ndaki desatüre edilmiş, çiğ ve kan dondurucu kaos sarmalı.
  ┣ 📂 Tarihi-ve-Epik
- ┃ ┣ 📜 Schindlers-List-1993.md
- ┃ ┗ 📜 The-Pianist-2002.md
+ ┃ ┣ 📜 Schindlers-List-1993.md                           — Siyah-beyaz soykırım cehenneminde Kırmızı Paltolu kızın masumiyeti.
+ ┃ ┗ 📜 The-Pianist-2002.md                               — Yıkıntıların arasında sanata ve hayata tutunan yalnız bir melodi.
  ┣ 📂 Western-ve-Eski-Bati
- ┃ ┣ 📜 Django-Unchained-2012.md
- ┃ ┣ 📜 Once-Upon-a-Time-in-the-West-1968.md
- ┃ ┣ 📜 The-Good-the-Bad-and-the-Ugly-1966.md
- ┃ ┗ 📜 Unforgiven-1992.md
+ ┃ ┣ 📜 Django-Unchained-2012.md                          — Tarantino'nun kan sıçratan, intikam dolu kölelik dekonstrüksiyonu.
+ ┃ ┣ 📜 Once-Upon-a-Time-in-the-West-1968.md              — Leone kamerasının uzun bakışmaları ve tren yollarının ölümü getirişi.
+ ┃ ┣ 📜 The-Good-the-Bad-and-the-Ugly-1966.md             — Spagetti Western'in üç köşeli, destansı müzikal zirvesi.
+ ┃ ┗ 📜 Unforgiven-1992.md                                — Şiddetin kahramanlık mitini yıkan ve mitosları deviren soğuk finali.
  ┣ 📜 CONTRIBUTING.md (Kolektif Katkı Protokolü)
  ┣ 📜 LICENSE (MIT)
  ┗ 📜 SABLON.md (Standart İnceleme Modülü)
