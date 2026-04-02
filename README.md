@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="Evrensel Sinema Arşivi" width="100%">
+<br>
+
 # 🎬 Evrensel Sinema Arşivi
 ### *Dijital Bir Seyyahın Gözünden Dünya Sineması ve Görsel Mühendislik Külliyatı*
 
