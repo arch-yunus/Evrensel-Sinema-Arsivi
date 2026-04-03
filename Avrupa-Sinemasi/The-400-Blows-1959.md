@@ -1,31 +1,34 @@
 # The 400 Blows (1959)
 
-> "Filmin ruhunu veya ana temasını yansıtan, akılda kalıcı o meşhur replik buraya gelecek."
+> "Ateşkes yok, barış yok. Sadece hayatta kalma savaşı var."
 
 ### 📋 Film Künyesi
-- **Yönetmen:** 
-- **Senarist:** 
-- **Başroller:** 
-- **Tür:** 
-- **Süre:** 
-- **IMDb / Metacritic:** 
+- **Yönetmen:** François Truffaut
+- **Senarist:** François Truffaut, Marcel Moussy
+- **Başroller:** Jean-Pierre Léaud
+- **Tür:** Dram, Suç (Coming-of-age)
+- **Süre:** 99 Dakika
+- **IMDb / Metacritic:** 8.1 / 97
 
 ---
 
 ## 📌 Sinopsis ve Temel Çatışma
-Filmin olay örgüsü (plot) nedir? Sürpriz bozan (spoiler) kısımlara girmeden, ana karakterin amacı ve karşısındaki temel engel/çatışma nasıl şekilleniyor?
+The 400 Blows; Paris'te ailesi ve okulu tarafından hor görülen, anlaşılamayan ve sürekli disiplin cezalarıyla baskılanan 12 yaşındaki Antoine Doinel'in hikayesini anlatır. Temel çatışma, Antoine'ın çocuksu özgürlük arayışı ile yetişkin dünyasının katı, ikiyüzlü ve bürokratik engelleri arasındadır. Film, "özgürlüğe doğru bir kaçış"ın hüzünlü ve çiğ bir portresidir.
 
 ## 🎬 Görsel Mühendislik ve Kurgu (Video & Kurgu Analizi)
-Yönetmen ve görüntü yönetmeni bize ne anlatmak istiyor?
-- **Kamera Kullanımı:** Çekim açıları, lens tercihleri (örn: klostrofobik yakın çekimler).
-- **Renk Paleti:** Renklerin psikolojik kullanımı (örn: Matrix'teki yeşil tonlar).
-- **Kurgu Ritmi:** Sahneler arası geçişler, kurgunun temposu izleyiciyi nasıl yönlendiriyor?
+Truffaut, bu filmle Fransız Yeni Dalgası'nın (Nouvelle Vague) görsel dilini dünyaya ilan etmiştir.
+
+- **Kamera Kullanımı:** Stüdyo dışına çıkan kamera, Paris sokaklarında özgürce dolaşır. Handheld (el kamerası) çekimlerin kullanımı, filme bir belgesel samimiyeti ve dinamizm kazandırır. Uzun takip sahneleri (Long takes), Antoine'ın kapana kısılmışlığını ve kaçış arzusunu fiziksel bir deneyime dönüştürür.
+- **Doğal Işık ve Mekan:** Yapay ışık kullanımından kaçınılarak yaratılan doğal atmosfer, hikayenin çiğ realizmini güçlendirir.
+- **Final Sekansı ve Kurgu:** Filmin sonundaki Antoine'ın denize doğru koştuğu sahne ve izleyiciye doğrudan bakan o meşhur "Dondurulmuş Kare" (Freeze-frame), sinema tarihinin en güçlü ve belirsizlik dolu final hamlelerinden biridir. Bu kare, Antoine'ın o anki çaresizliğini ve artık gidecek yeri olmadığını ebedileştirir.
 
 ## 🧠 Karakter Psikolojisi ve Felsefi Alt Metin
-Karakterlerin görünürdeki motivasyonlarının altındaki gerçek psikolojik itkiler neler? Film bize toplum, varoluş veya insan doğası ("The Human Spec") hakkında hangi soruları sorduruyor?
+Antoine Doinel, aslında Truffaut'nun kendi çocukluğunun bir projeksiyonudur. Film, çocukluktaki yalnızlığı, sevgi eksikliğini ve sistemin bir çocuğu nasıl "suçlu" ilan ettiğini akademik bir soğukkanlılıkla gösterir. Antoine için çalınan daktilo veya okuldan firar, bir hırsızlık değil, varolma ve fark edilme çabasıdır.
 
 ## 🎼 İşitsel Deneyim ve Müzik
-Ses tasarımı ve müzikler sahnelerin duygusunu nasıl manipüle ediyor? Çevresel seslerin (ambiyans) kullanımı ne kadar başarılı?
+Jean Constantin'in melodik ve hüzünlü vals temaları, Antoine'ın masumiyetini ve trajedisini dengeler. Sokağın doğal sesleri, filmin işitsel dokusunun temelini oluşturur ve Paris'i yaşayan bir karakter haline getirir.
 
 ## 💡 Seyir Notları ve Çıkarımlar
-Kişisel değerlendirmeler. Filmin en güçlü yanı neydi? İzleyicide bıraktığı nihai his nedir? İzlemeyen birine bu film tek cümleyle nasıl satılır?
+The 400 Blows, her izleyişte Antoine'ın o son bakışında kendinizden bir parça bulacağınız, sinemanın en samimi "büyüme" manifestolarından biridir.
+**Nihai His:** Koşmak isteyip de gidecek yer bulamamanın yarattığı o göğüs sıkışması.
+*Tek cümleyle:* "Fransız Yeni Dalgası'nın sokağa çıkan, kuralları yıkan ve bir çocuğun kırgınlığını tarihe mühürleyen o ölümsüz ilk adımı."

@@ -1,31 +1,34 @@
 # Blade Runner (1982)
 
-> "Filmin ruhunu veya ana temasını yansıtan, akılda kalıcı o meşhur replik buraya gelecek."
+> "Anılar... yağmurdaki gözyaşları gibi zamanla kaybolacaklar."
 
 ### 📋 Film Künyesi
-- **Yönetmen:** 
-- **Senarist:** 
-- **Başroller:** 
-- **Tür:** 
-- **Süre:** 
-- **IMDb / Metacritic:** 
+- **Yönetmen:** Ridley Scott
+- **Senarist:** Hampton Fancher, David Peoples (Philip K. Dick romanından uyarlama)
+- **Başroller:** Harrison Ford, Rutger Hauer, Sean Young
+- **Tür:** Bilim Kurgu, Neo-Noir, Distopya
+- **Süre:** 117 Dakika (Orijinal) / 110 Dakika (Director's Cut) / 117 Dakika (Final Cut)
+- **IMDb / Metacritic:** 8.1 / 84
 
 ---
 
 ## 📌 Sinopsis ve Temel Çatışma
-Filmin olay örgüsü (plot) nedir? Sürpriz bozan (spoiler) kısımlara girmeden, ana karakterin amacı ve karşısındaki temel engel/çatışma nasıl şekilleniyor?
+2019 yılının Los Angeles'ında, insanlar tarafından köle olarak kullanılan ve "Replikant" denilen insansı robotlar, yaratıcılarıyla yüzleşmek ve yaşam sürelerini uzatmak için isyan çıkarırlar. Emekli bir "Blade Runner" olan Rick Deckard, firari replikantları "emekli etmek" (etkisiz hale getirmek) için geri çağrılır. Temel çatışma; yaratılan ile yaratan arasındaki ontolojik savaş ve Deckard'ın replikantları avlarken kendi insanlığını ve anılarını sorgulamaya başlamasıdır.
 
 ## 🎬 Görsel Mühendislik ve Kurgu (Video & Kurgu Analizi)
-Yönetmen ve görüntü yönetmeni bize ne anlatmak istiyor?
-- **Kamera Kullanımı:** Çekim açıları, lens tercihleri (örn: klostrofobik yakın çekimler).
-- **Renk Paleti:** Renklerin psikolojik kullanımı (örn: Matrix'teki yeşil tonlar).
-- **Kurgu Ritmi:** Sahneler arası geçişler, kurgunun temposu izleyiciyi nasıl yönlendiriyor?
+Blade Runner, "Siberpunk" ve "Neon-Noir" estetiğinin sinemadaki en görkemli ve kusursuz inşasıdır.
+
+- **Kamera Kullanımı ve Işık:** Jordan Cronenweth’in görüntü yönetmenliği, sürekli yağan asit yağmuru, devasa reklam panoları ve sisli atmosfer içinden sızan keskin ışık hüzmeleriyle (Backlighting) klostrofobik bir gelecek tasvir eder. Işık, dejenere olmuş bir metropolün çürümesini ve karakterlerin yalnızlığını vurgulayan bir mimari öğe gibidir.
+- **Set Tasarımı ve Dokular:** Filmdeki "Retro-fitting" (eski ile yeninin iç içe geçmesi) anlayışı, geleceği steril değil, paslı, kirli ve tarihsel bir katmanla sunar. Tyrell binasının devasa piramit yapısı, sınıfsal hiyerarşiyi ve tanrısal kompleksi görselleştirir.
+- **Kurgu Ritmi:** Scott, aksiyonun temposunu düşürerek izleyiciyi atmosferin melankolisi içine hapseder. Kurgu, Deckard'ın fotoğrafları incelediği sahnelerde olduğu gibi, detaya ve gözleme odaklanan yavaş bir ritme sahiptir.
 
 ## 🧠 Karakter Psikolojisi ve Felsefi Alt Metin
-Karakterlerin görünürdeki motivasyonlarının altındaki gerçek psikolojik itkiler neler? Film bize toplum, varoluş veya insan doğası ("The Human Spec") hakkında hangi soruları sorduruyor?
+Film, "İnsanı insan yapan nedir?" sorusunu merkezine alır. Replikant Roy Batty’nin hayatta kalma arzusu ve Deckard’ın giderek bir replikant kadar ruhsuzlaşması, "insanlık" kavramının biyolojik değil, ahlaki bir seçim olduğunu savunur. "Anı"ların yapaylığı üzerinden kimliğin güvenilmezliği ve kölelik-özgürlük paradoksu felsefi derinliği oluşturur.
 
 ## 🎼 İşitsel Deneyim ve Müzik
-Ses tasarımı ve müzikler sahnelerin duygusunu nasıl manipüle ediyor? Çevresel seslerin (ambiyans) kullanımı ne kadar başarılı?
+Vangelis’in synthesizer tabanlı, melankolik ve epik müziği, filmin ruhunun yarısıdır. Caz elementlerini fütüristik seslerle birleştiren bu skor, yağmurlu Los Angeles gecelerinin hüznünü mükemmel bir şekilde yansıtır. Ses tasarımı; uçan araçların (Spinner) uğultusu ile çok kültürlü bir metropolün gürültüsünü iç içe geçirir.
 
 ## 💡 Seyir Notları ve Çıkarımlar
-Kişisel değerlendirmeler. Filmin en güçlü yanı neydi? İzleyicide bıraktığı nihai his nedir? İzlemeyen birine bu film tek cümleyle nasıl satılır?
+Blade Runner, vizyona girdiğinde değeri anlaşılmamış ancak zamanla bir "görsel mühendislik kutsalı" haline gelmiş bir sabır testidir.
+**Nihai His:** Yalnızlık, nemli bir soğuk ve varoluşsal bir boşluk hissi.
+*Tek cümleyle:* "Neon ışıkları ve asit yağmurları altında, insanlığın son kırıntılarının sentetik bedenlerde arandığı o melankolik siberpunk senfonisi."
