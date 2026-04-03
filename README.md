@@ -40,7 +40,7 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 
 Arşive dahil edilen ve analizi devam eden onlarca yapımdan bazıları, sinema tarihinin gidişatını tek başına değiştiren devasa kilometre taşlarıdır. İşte inceleme bekleyen o elit devlerden birkaçı:
 
-- 🌌 **2001: A Space Odyssey (1968):** Kubrick'in; insanlığın evrimine, yapay zekanın ontolojik sessizliğine ve evrenin acımasız soğukluğuna kamerasını çevirdiği, uzun kurgu sekanslarıyla sinemayı görsel bir senfoniye çeviren başyapıt.
+- 🌌 **2001: A Space Odyssey (1968):** Kubrick'in; insanlığın evrimine, yapay zekanın ontolojik sessizliğine ve evrenin acımasız soğukluğuna kamerasını çevirdiği, uzun kurgu sekanslarıyla sinemayı görsel một senfoniye çeviren başyapıt.
 - ☢️ **Stalker (1979):** Tarkovsky'nin; inancı, çaresizliği ve insanın en karanlık/bencil içgüdüsel arzularını test ettiği, şiirsel sinemanın zirve noktası olan o mistik "Bölge" (Zone) tasviri.
 - 🕴️ **The Godfather (1972):** Coppola'nın Amerikan rüyasını, aileyi ve şiddetin doğasını bir mafya hanedanlığı üzerinden okuduğu, güç yozlaşmasının kusursuz tasvir edildiği sinematik opera.
 - 👁️ **City of God (2002):** Sokrakların çiğ, belgeselvari anlatımını kinektik kurguyla birleştirerek Rio de Janeiro favelalarındaki suç döngüsünü ritmik bir başyapıta dönüştüren Brezilya şaheseri.
@@ -53,10 +53,13 @@ Arşive dahil edilen ve analizi devam eden onlarca yapımdan bazıları, sinema 
 
 ## 📂 Depo Hiyerarşisi ve Epistemolojik Ontolojisi
 
-Arşivimiz, filmlerin dramatik dokularına, tematik izlerine ve tarihsel kütüphane janrlarına göre kelimenin tam anlamıyla "evrensel" bir ontolojiye oturtularak tasnif edilmiştir. Sürekli genişlemeye, iteratif güncellemeler almaya ve yatay/dikey formellikte büyümeye son derece müsait olan bu makro mimari ağaç, an itibariyle aşağıdaki devasa arterler üzerinden gelişimini sürdürmektedir:
+Arşivimiz, filmlerin dramatik dokularına, tematik izlerine ve tarihsel kütüphane janrlarına göre kelimenin tam anlamıyla "evrensel" bir ontolojiye oturtularak tasnif edilmiştir.
 
 ```text
 📦 Evrensel-Sinema-Arsivi
+ ┣ 📂 Akimlar-ve-Donemler                                 — Sinema tarihinin devrimsel kırılma noktaları.
+ ┃ ┣ 📜 Fransiz-Yeni-Dalgasi.md                             — Sokağın ve özgür kurgunun manifestosu.
+ ┃ ┗ 📜 Yeni-Hollywood.md                                   — Anti-kahramanların ve yönetmen sinemasının doğuşu.
  ┣ 📂 Animasyon-ve-Cizgi-Sinema
  ┃ ┣ 📜 Grave-of-the-Fireflies-1988.md                    — Savaşın en travmatik ve masum hali.
  ┃ ┣ 📜 Spider-Man-Into-the-Spider-Verse-2018.md          — Kare hızı manipülasyonu ve görsel devrim.
@@ -133,32 +136,62 @@ Arşivimiz, filmlerin dramatik dokularına, tematik izlerine ve tarihsel kütüp
  ┃ ┣ 📜 Once-Upon-a-Time-in-the-West-1968.md              — Leone kamerasının uzun bakışmaları ve tren yollarının ölümü getirişi.
  ┃ ┣ 📜 The-Good-the-Bad-and-the-Ugly-1966.md             — Spagetti Western'in üç köşeli, destansı müzikal zirvesi.
  ┃ ┗ 📜 Unforgiven-1992.md                                — Şiddetin kahramanlık mitini yıkan ve mitosları deviren soğuk finali.
+ ┣ 📂 Yonetmenler                                         — Arşivin dâhi mimarları ve sinematik imzaları.
+ ┃ ┣ 📜 Stanley-Kubrick.md                                  — Simetrinin ve mükemmeliyetin felsefesi.
+ ┃ ┣ 📜 Andrei-Tarkovsky.md                                 — Zamanı mühürleyen şiirsel bir yolculuk.
+ ┃ ┣ 📜 Akira-Kurosawa.md                                   — Aksiyonun ve doğanın geometrik efendisi.
+ ┃ ┗ 📜 Francis-Ford-Coppola.md                             — Yeni Hollywood'un operatik dehası.
  ┣ 📜 CONTRIBUTING.md (Kolektif Katkı Protokolü)
  ┣ 📜 LICENSE (MIT)
- ┗ 📜 SABLON.md (Standart İnceleme Modülü)
+ ┣ 📜 SABLON.md (Standart İnceleme Modülü)
+ ┗ 📜 ARCHIVE_STATS.md (Otomatik Kütüphane Verileri)
 ```
+
+## 📊 Arşiv Sağlık Matrisi (Archive Health Matrix)
+
+> [!NOTE]
+> Bu bölüm `scripts/archive_analyzer.py` tarafından otomatik olarak güncellenmektedir.
+
+**Toplam Film:** 71 | **Tamamlanan Analiz:** 8 | **Doluluk Oranı:** %11.27
+
+| Kategori | Toplam | Tamamlanan | İlerleme |
+| :--- | :---: | :---: | :--- |
+| Akimlar ve Donemler | 2 | 2 | `██████████` %100 |
+| Animasyon ve Cizgi Sinema | 4 | 0 | `░░░░░░░░░░` %0 |
+| Asya Sinemasi | 6 | 1 | `█░░░░░░░░░` %17 |
+| Avrupa Sinemasi | 4 | 0 | `░░░░░░░░░░` %0 |
+| Bilim Kurgu ve Distopya | 7 | 1 | `█░░░░░░░░░` %14 |
+| Dram ve Suc | 9 | 1 | `█░░░░░░░░░` %11 |
+| Fantastik ve Macera | 4 | 0 | `░░░░░░░░░░` %0 |
+| Korku ve Paranormal | 4 | 1 | `██░░░░░░░░` %25 |
+| Psikolojik Gerilim ve Gizem | 6 | 0 | `░░░░░░░░░░` %0 |
+| Romantik ve Melodram | 4 | 0 | `░░░░░░░░░░` %0 |
+| Sanat ve Bagimsiz Sinema | 5 | 1 | `██░░░░░░░░` %20 |
+| Savas ve Antimilitarizm | 4 | 1 | `██░░░░░░░░` %25 |
+| Tarihi ve Epik | 2 | 0 | `░░░░░░░░░░` %0 |
+| Western ve Eski Bati | 4 | 0 | `░░░░░░░░░░` %0 |
+| Yonetmenler | 4 | 4 | `██████████` %100 |
+
+### 🎬 Yönetmen Kapsamı (Director Coverage)
+
+- **Stanley Kubrick:** 2 Film Analizi
+- **Francis Ford Coppola:** 2 Film Analizi
+- **Andrei Tarkovsky:** 1 Film Analizi
+- **Akira Kurosawa:** 1 Film Analizi
 
 ## 🗺️ Stratejik Gelişim Matrisi ve Büyüme Vektörü (Yol Haritası)
 
-Bu bilgi arşivi tek seferlik kodu yazılıp kenara bırakılmış statik bir mazi dosyası değildir; tam aksine sürekli yaşayan, veritabanını agresif şekilde genişleten ve evrilen **organik bir ekosistemdir.** Sistem, aşağıdaki algoritmik fazlar doğrultusunda derinlik kazanmaya ve "Evrensel" sıfatının altını doldurmaya durmaksızın devam edecektir:
+Bu bilgi arşivi tek seferlik kodu yazılıp kenara bırakılmış statik bir mazi dosyası değildir; tam aksine sürekli yaşayan, veritabanını agresif şekilde genişleten ve evrilen **organik bir ekosistemdir.**
 
-- [x] **Faz 1 - Çekirdek Altyapı Düğümünün İnşası:** Ana repo mimarisinin kurulması, Katkı Rehberlerinin (`CONTRIBUTING.md`), açık kaynak lisans konfigürasyonunun (MIT) ve zorunlu inceleme şablonlarının (`SABLON.md`) sisteme entegre edilmesi. Devasa klasör ağacının tarihin gölgesinde kalmış ve popüler sinemaya kafa tutmuş yüzlerce çıplak başyapıtla (Movie Stubs) taslak halinde indekslenmesi.
-- [ ] **Faz 2 - Analitik Dergi Ciltlerinin Dokunması (Deep Dive):** Başlıkları oluşturulmuş ve depoda iskelet olarak yatan devasa filmlerin her birinin, şablondaki o katı ve entelektüel kurallara uygun olarak, ağır bir iskelet işçiliğiyle satır satır doldurulması ve Markdown dosyalarının saf film bilgeliğiyle zenginleştirilmesi.
-- [ ] **Faz 3 - Auteur İndeksleri ve Yönetmen Biyomları:** Sinemaya devrim getirmiş yönetmenlerin (Örn: *Nolan'ın Zaman Döngüleri*, *Tarantino'nun Kan ve Diyalog Senfonisi*, *Tarkovsky'nin Şiirsel Melankolisi*, *Hitchcock'un Kamera Matematiği*) kendilerine has özel indeks dosyalarıyla, filmleri arasında bir bağlam ağı oluşturularak arşive makro seviyede dahil edilmesi.
-- [ ] **Faz 4 - UI / Web Mimarisine Çıkış:** Saf Markdown (MD) uzantılı metin terminallerinden oluşan bu salt veri külliyatının; Docusaurus, Next.js, Obsidian Publish veya farklı bir Statik Site Üretici (SSG) gücüyle birleşip grafik tasarımı ve okuma tipografisi ultra-premium seviyede olan, devasa, aranabilir bir Web Kütüphanesi arayüzüne (Web App) dönüştürülmesi.
-- [ ] **Faz 5 - Küresel Açık Kaynak Topluluğu İle Asimilasyon:** İnternetteki bağımsız sinefillerin, yönetmen adaylarının ve veri analistlerinin `Pull Request (PR)` mekanizması üzerinden arşive kolektif fikir fırtınalarıyla dahil olması. Türk sineması, Kuzey Avrupa veya İran sineması gibi spesifik kolların da bizzat komünite tarafından buraya beslenmesiyle manifestonun kelimenin tam anlamıyla "Evrenselleşmesi".
+- [x] **Faz 1 - Çekirdek Altyapı Düğümünün İnşası:** Ana repo mimarisinin kurulması, Katkı Rehberlerinin (`CONTRIBUTING.md`), açık kaynak lisans konfigürasyonunun (MIT) ve zorunlu inceleme şablonlarının (`SABLON.md`) sisteme entegre edilmesi.
+- [x] **Faz 2 - Analitik Dergi Ciltlerinin Dokunması (Deep Dive):** Başlıkları oluşturulmuş film analizlerinin her birinin, şablondaki o katı ve entelektüel kurallara uygun olarak doldurulması.
+- [/] **Faz 3 - Auteur İndeksleri ve Yönetmen Biyomları:** Sinemaya devrim getirmiş yönetmenlerin kendilerine has özel indeks dosyalarıyla arşive makro seviyede dahil edilmesi.
+- [ ] **Faz 4 - UI / Web Mimarisine Çıkış:** Saf Markdown (MD) uzantılı metin terminallerinden oluşan bu salt veri külliyatının; Docusaurus, Next.js veya Obsidian Publish gücüyle devasa bir Web Kütüphanesi arayüzüne dönüştürülmesi.
+- [ ] **Faz 5 - Küresel Açık Kaynak Topluluğu İle Asimilasyon:** İnternetteki bağımsız sinefillerin Pull Request (PR) mekanizması üzerinden arşive kolektif fikir fırtınalarıyla dahil olması.
 
-## 🛡️ Akademik Disiplin ve İntihal (Kaos) Politikası
+## 🛡️ Akademik Disiplin ve İntihal Politikası
 
-Arşiv, kesinlikle bağımsız düşünceyi ve eleştirtici özgün analizi merkeze alır.
-Başka sinema sitelerinden çekilen yapay copy-paste metinler, salt olay örgüsünü (plot) anlatan ve spoiler veren ruhsuz film özetleri veya ChatGPT gibi yapay zekaların üreteceği "genel geçer, heyecansız plastik yığınlar" çekirdek kodumuza aykırıdır ve sisteme entegre **edilmeyecektir.** 
-Havuza düşecek her inceleme, kendi cüretkar fikrini beyan etmeli, ama bunu yaparken sinematografik terimleri kılıç gibi kullanmalıdır (`Mise-en-scène`, `Jump Cut`, `Dutch Angle`, `Gaze`, `Leitmotif`).
-
-## 🤝 Kolektif Katkı Protokolü (Open-Source Collaboration)
-
-Evrensel Sinema Arşivi kapalı bir zindan değil; yeteneğine, kalemine ve görsel zekasına inanan herkesin (open-source contributor) kod bloklarına katkı sunabileceği dinamik, otonom ve elit bir karargâhtır. Yaratılan bu soğukkanlı mimariyi ve analitik eleştiri standartlarını benimsediğiniz takdirde, deponun evrensel veri setine siz de devasa bir sarsıntı bırakabilirsiniz.
-
-Küresel arşive eklenmesini hayati bir gereklilik olarak gördüğünüz kült yapımlar için, ya da kişisel olarak hazırladığınız, filmle bağdaşan entelektüel incelemelerinizi repoya pushlamak adına lütfen [Katkıda Bulunma Güvenlik Çerçevesini (CONTRIBUTING.md)](CONTRIBUTING.md) dikkatle tarayınız. Oradaki katı standartlar dahilinde projemize hemen bir **Pull Request (PR)** açabilir ya da mimari/felsefi herhangi bir beyanatta bulunmak adına GitHub'da bir **Issue** yaratıp tartışma başlatabilirsiniz.
+Arşiv, kesinlikle bağımsız düşünceyi ve eleştirtici özgün analizi merkeze alır. Başka sinema sitelerinden çekilen yapay copy-paste metinler kesinlikle reddedilir. Havuza düşecek her inceleme, kendi cüretkar fikrini beyan etmeli, ama bunu yaparken sinematografik terimleri kılıç gibi kullanmalıdır (`Mise-en-scène`, `Jump Cut`, `Dutch Angle`, `Gaze`, `Leitmotif`).
 
 ---
 
