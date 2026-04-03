@@ -6,7 +6,7 @@
 # 🎬 Evrensel Sinema Arşivi
 ### *Dijital Bir Seyyahın Gözünden Dünya Sineması ve Görsel Mühendislik Külliyatı*
 
-[![Status](https://img.shields.io/badge/Status-Aktif_Büyüyen_Külliyat-2ea44f?style=for-the-badge)](https://github.com/arch-yunus/Evrensel-Sinema-Arsivi)
+[![Status](https://img.shields.io/badge/Status-Yüzde_50_Eşiği_Aşıldı-red?style=for-the-badge)](https://github.com/arch-yunus/Evrensel-Sinema-Arsivi)
 [![Kapsam](https://img.shields.io/badge/Kapsam-Dünya_Sineması-0366d6?style=for-the-badge)](https://github.com/arch-yunus/Evrensel-Sinema-Arsivi)
 [![Format](https://img.shields.io/badge/Format-Markdown_Analiz-f66a0a?style=for-the-badge)](https://github.com/arch-yunus/Evrensel-Sinema-Arsivi)
 [![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)](LICENSE)
@@ -38,31 +38,36 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 
 ## 🎞️ Çekirdek Külliyattan Öne Çıkanlar (Masterpieces)
 
+- 🧼 **Fight Club (1999):** Modern tüketim toplumuna ve kimlik krizine atılan o kusursuz postmodern tekme.
+- 👨‍🍳 **Goodfellas (1990):** Suç dünyasının o pırıltılı ve vahşi yükselişinin kinetik operası.
+- 🪓 **The Shining (1980):** Deliliğin, simetrinin ve Overlook Oteli'nin o klostrofobik koridorlarındaki dehşet.
 - 🏮 **Spirited Away (2001):** El çizimi animasyonun, Şintoizmin ve büyümenin o masalsı vizyonu.
 - 🤠 **The Good, the Bad and the Ugly (1966):** Western türünün operatik zirvesi ve Leone geometrisi.
-- 🐚 **Ghost in the Shell (1995):** Siberpunk felsefesinin ve dijital benlik arayışının miladı.
 - 🔨 **Oldboy (2003):** İntikamın dille ve çekiçle yazılmış o kanlı neo-noir şiiri.
 - 💃 **In the Mood for Love (2000):** Görsel melankolinin ve imkansız aşkın Wong Kar-wai zirvesi.
-- 📦 **Se7en (1995):** Yağmurlu ve yozlaşmış bir metropolde, yedi günahın ve karanlığın harmonisi.
 - 🌌 **2001: A Space Odyssey (1968):** Evrimin ve monolitin karanlık uzay senfonisi.
 - 🕴️ **The Godfather (1972):** Gücün ve ailenin kusursuz Amerikan operası.
-- ⚔️ **Seven Samurai (1954):** Kurosawa'nın epik aksiyon geometrisi.
 
 ## 📂 Depo Hiyerarşisi ve Epistemolojik Ontolojisi
 
 ```text
 📦 Evrensel-Sinema-Arsivi
  ┣ 📂 Akimlar-ve-Donemler                                 — Sinema tarihinin devrimsel kırılma noktaları.
+ ┃ ┣ 📜 Postmodern-Sinema.md                                — Kolajın, ironinin ve meta-anlatının oyun alanı.
  ┃ ┣ 📜 Spagetti-Western.md                                 — Tozun, terin ve düelloların İtalyan operası.
  ┃ ┣ 📜 Neo-Noir.md                                         — Modern noir estetiği ve neon ışıklı cinayetler.
  ┃ ┣ 📜 Kara-Film-Film-Noir.md                              — Suçun, sinizmin ve düşük ışığın zirvesi.
  ┃ ┣ 📜 Alman-Disavurumculugu.md                            — Gölgelerin ve çarpık mimarinin doğuşu.
  ┃ ┗ 📜 Fransiz-Yeni-Dalgasi.md                             — Sokağın ve özgür kurgunun manifestosu.
- ┣ 📂 Animasyon-ve-Cizgi-Sinema
- ┃ ┗ ... (Spirited Away, Ghost in the Shell, Lion King vb.)
- ┣ 📂 Western-ve-Eski-Bati
- ┃ ┗ ... (The Good, the Bad and the Ugly, Unforgiven vb.)
+ ┣ 📂 Psikolojik-Gerilim-ve-Gizem
+ ┃ ┗ ... (Fight Club, Se7en, Taxi Driver, Memento vb.)
+ ┣ 📂 Dram-ve-Suc
+ ┃ ┗ ... (The Godfather, Goodfellas, Pulp Fiction vb.)
+ ┣ 📂 Korku-ve-Paranormal
+ ┃ ┗ ... (The Shining, Psycho, Alien, The Exorcist vb.)
  ┣ 📂 Yonetmenler                                         — Arşivin dâhi mimarları ve sinematik imzaları.
+ ┃ ┣ 📜 David-Fincher.md                                    — Dijital mükemmeliyetçiliğin ve karanlığın mimarı.
+ ┃ ┣ 📜 Quentin-Tarantino.md                                — Popüler kültürün, diyalogların ve postmodernizmin kralı.
  ┃ ┣ 📜 Hayao-Miyazaki.md                                   — El çiziminin, doğanın ve çocuksu merakın ustası.
  ┃ ┣ 📜 Sergio-Leone.md                                     — Aşırı yakın planların ve Vahşi Batı mitolojisinin dehası.
  ┃ ┣ 📜 Wong-Kar-wai.md                                     — Atmosferin, zamanın ve melankolinin şairi.
@@ -80,42 +85,37 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 
 ## 📊 Arşiv Sağlık Matrisi (Archive Health Matrix)
 
-> [!NOTE]
-> Bu bölüm `scripts/archive_analyzer.py` tarafından otomatik olarak güncellenmektedir.
+> [!IMPORTANT]
+> **MİLAT**: Külliyat genelinde %50 doluluk oranı başarıyla aşılmıştır.
 
-**Toplam Film:** 75 | **Tamamlanan Analiz:** 36 | **Doluluk Oranı:** %48.0
+**Toplam Film:** 76 | **Tamamlanan Analiz:** 42 | **Doluluk Oranı:** %55.26
 
 | Kategori | Toplam | Tamamlanan | İlerleme |
 | :--- | :---: | :---: | :--- |
-| Akimlar ve Donemler | 6 | 6 | `██████████` %100 |
+| Akimlar ve Donemler | 7 | 7 | `██████████` %100 |
 | Animasyon ve Cizgi Sinema | 5 | 2 | `████░░░░░░` %40 |
 | Asya Sinemasi | 6 | 3 | `█████░░░░░` %50 |
 | Avrupa Sinemasi | 4 | 1 | `██░░░░░░░░` %25 |
 | Bilim Kurgu ve Distopya | 8 | 3 | `███░░░░░░░` %38 |
-| Dram ve Suc | 9 | 2 | `██░░░░░░░░` %22 |
+| Dram ve Suc | 9 | 3 | `███░░░░░░░` %33 |
 | Fantastik ve Macera | 4 | 0 | `░░░░░░░░░░` %0 |
 | Korku ve Paranormal | 4 | 2 | `█████░░░░░` %50 |
-| Psikolojik Gerilim ve Gizem | 6 | 2 | `███░░░░░░░` %33 |
+| Psikolojik Gerilim ve Gizem | 6 | 3 | `█████░░░░░` %50 |
 | Romantik ve Melodram | 4 | 0 | `░░░░░░░░░░` %0 |
 | Sanat ve Bagimsiz Sinema | 5 | 2 | `████░░░░░░` %40 |
 | Savas ve Antimilitarizm | 4 | 1 | `██░░░░░░░░` %25 |
 | Tarihi ve Epik | 2 | 0 | `░░░░░░░░░░` %0 |
 | Western ve Eski Bati | 4 | 1 | `██░░░░░░░░` %25 |
-| Yonetmenler | 12 | 12 | `██████████` %100 |
+| Yonetmenler | 14 | 14 | `██████████` %100 |
 
 ### 🎬 Yönetmen Kapsamı (Director Coverage)
 
-- **Stanley Kubrick:** 2 Film Analizi
-- **Francis Ford Coppola:** 2 Film Analizi
-- **Alfred Hitchcock:** 1 Film Analizi
-- **Hayao Miyazaki:** 1 Film Analizi
-- **Sergio Leone:** 1 Film Analizi
-- **Mamoru Oshii:** 1 Film Analizi
-- **Park Chan-wook:** 1 Film Analizi
-- **Wong Kar-wai:** 1 Film Analizi
-- **David Fincher:** 1 Film Analizi
-- **Martin Scorsese:** 1 Film Analizi
-
+- **Stanley Kubrick:** 3 Film Analizi (Shining, 2001, Clockwork)
+- **David Fincher:** 2 Film Analizi (Fight Club, Se7en)
+- **Martin Scorsese:** 2 Film Analizi (Goodfellas, Taxi Driver)
+- **Francis Ford Coppola:** 2 Film Analizi (The Godfather I & II)
+- **Quentin Tarantino:** 1 Film Analizi (Pulp Fiction)
+- **Alfred Hitchcock:** 1 Film Analizi (Psycho)
 
 ## 🗺️ Stratejik Gelişim Matrisi (Yol Haritası)
 
@@ -123,7 +123,8 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 - [x] **Faz 2 - Analitik Dergi Ciltleri (Deep Dive):** Başyapıtların teknik analizlerle doldurulması.
 - [x] **Faz 3 - Auteur İndeksleri:** Dünya sinemasına yön veren yönetmen biyomlarının oluşturulması.
 - [x] **Faz 3.5 - Tarihsel Kırılma Noktaları:** Sinema akımlarının entegrasyonu.
-- [/] **Faz 4 - Yüzde 50 Eşiği ve Web Mimarisi:** Arşivin profesyonel bir Web Kütüphanesi için olgunlaşması.
+- [x] **Faz 4 - %50 Milestone:** Arşivin kritik kütleye ulaşması.
+- [ ] **Faz 5 - Web Mimarisi ve Topluluk:** Arşivin interaktif bir platforma dönüşümü.
 
 ---
 
