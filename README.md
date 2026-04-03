@@ -38,13 +38,13 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 
 ## 🎞️ Çekirdek Külliyattan Öne Çıkanlar (Masterpieces)
 
-- 🌃 **Taxi Driver (1976):** Şehir yalnızlığının ve şiddetin sarsıcı Scorsese dekonstrüksiyonu.
+- 🔨 **Oldboy (2003):** İntikamın dille ve çekiçle yazılmış o kanlı neo-noir şiiri.
+- 💃 **In the Mood for Love (2000):** Görsel melankolinin ve imkansız aşkın Wong Kar-wai zirvesi.
+- 📦 **Se7en (1995):** Yağmurlu ve yozlaşmış bir metropolde, yedi günahın ve karanlığın harmonisi.
 - 🚿 **Psycho (1960):** Sinemanın en ünlü cinayeti ve Hitchcock usulü görsel manipülasyon.
 - 🍔 **Pulp Fiction (1994):** Kronolojik yapının parçalandığı o benzersiz Tarantino klasiği.
 - 🌌 **2001: A Space Odyssey (1968):** Evrimin ve monolitin karanlık uzay senfonisi.
-- ☢️ **Stalker (1979):** Şiirsel sinemanın zirvesi olan "Bölge" (Zone) tasviri.
 - 🕴️ **The Godfather (1972):** Gücün ve ailenin kusursuz Amerikan operası.
-- 🤠 **The Good, the Bad and the Ugly (1966):** Western türünün görsel mühendislik zirvesi.
 - ⚔️ **Seven Samurai (1954):** Kurosawa'nın epik aksiyon geometrisi.
 - 🎭 **Persona (1966):** Kimlik kavramını dekonstrükte eden klostrofobik labirent.
 
@@ -54,16 +54,15 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 📦 Evrensel-Sinema-Arsivi
  ┣ 📂 Akimlar-ve-Donemler                                 — Sinema tarihinin devrimsel kırılma noktaları.
  ┃ ┣ 📜 Alman-Disavurumculugu.md                            — Gölgelerin ve çarpık mimarinin doğuşu.
- ┃ ┣ 📜 Kara-Film-Film-Noir.md                              — Suçun, sinizmin ve düşük ışığın (low-key) zirvesi.
+ ┃ ┣ 📜 Kara-Film-Film-Noir.md                              — Suçun, sinizmin ve düşük ışığın zirvesi.
+ ┃ ┣ 📜 Neo-Noir.md                                         — Modern noir estetiği ve neon ışıklı cinayetler.
  ┃ ┣ 📜 Fransiz-Yeni-Dalgasi.md                             — Sokağın ve özgür kurgunun manifestosu.
  ┃ ┗ 📜 Yeni-Hollywood.md                                   — Anti-kahramanların ve yönetmen sinemasının doğuşu.
- ┣ 📂 Dram-ve-Suc
- ┃ ┗ ... (The Godfather, Pulp Fiction, Goodfellas vb.)
- ┣ 📂 Korku-ve-Paranormal
- ┃ ┗ ... (Psycho, The Shining, Alien vb.)
- ┣ 📂 Psikolojik-Gerilim-ve-Gizem
- ┃ ┗ ... (Taxi Driver, Se7en, Shutter Island vb.)
+ ┣ 📂 Asya-Sinemasi
+ ┃ ┗ ... (Seven Samurai, Oldboy, In the Mood for Love vb.)
  ┣ 📂 Yonetmenler                                         — Arşivin dâhi mimarları ve sinematik imzaları.
+ ┃ ┣ 📜 Wong-Kar-wai.md                                     — Atmosferin, zamanın ve melankolinin şairi.
+ ┃ ┣ 📜 Park-Chan-wook.md                                   — Vahşi güzelliğin ve intikamın estetiği.
  ┃ ┣ 📜 Alfred-Hitchcock.md                                 — Gerilimin ve görsel manipülasyonun efendisi.
  ┃ ┣ 📜 Martin-Scorsese.md                                  — Suçun, inancın ve kinetik kurgunun ozanı.
  ┃ ┣ 📜 Stanley-Kubrick.md                                  — Simetrinin ve mükemmeliyetin felsefesi.
@@ -83,43 +82,46 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 > [!NOTE]
 > Bu bölüm `scripts/archive_analyzer.py` tarafından otomatik olarak güncellenmektedir.
 
-**Toplam Film:** 73 | **Tamamlanan Analiz:** 24 | **Doluluk Oranı:** %32.88
+**Toplam Film:** 73 | **Tamamlanan Analiz:** 30 | **Doluluk Oranı:** %41.1
 
 | Kategori | Toplam | Tamamlanan | İlerleme |
 | :--- | :---: | :---: | :--- |
-| Akimlar ve Donemler | 4 | 4 | `██████████` %100 |
+| Akimlar ve Donemler | 5 | 5 | `██████████` %100 |
 | Animasyon ve Cizgi Sinema | 4 | 0 | `░░░░░░░░░░` %0 |
-| Asya Sinemasi | 6 | 1 | `█░░░░░░░░░` %17 |
+| Asya Sinemasi | 6 | 3 | `█████░░░░░` %50 |
 | Avrupa Sinemasi | 4 | 1 | `██░░░░░░░░` %25 |
 | Bilim Kurgu ve Distopya | 7 | 2 | `██░░░░░░░░` %29 |
 | Dram ve Suc | 9 | 2 | `██░░░░░░░░` %22 |
 | Fantastik ve Macera | 4 | 0 | `░░░░░░░░░░` %0 |
 | Korku ve Paranormal | 4 | 2 | `█████░░░░░` %50 |
-| Psikolojik Gerilim ve Gizem | 6 | 1 | `█░░░░░░░░░` %17 |
+| Psikolojik Gerilim ve Gizem | 6 | 2 | `███░░░░░░░` %33 |
 | Romantik ve Melodram | 4 | 0 | `░░░░░░░░░░` %0 |
 | Sanat ve Bagimsiz Sinema | 5 | 2 | `████░░░░░░` %40 |
 | Savas ve Antimilitarizm | 4 | 1 | `██░░░░░░░░` %25 |
 | Tarihi ve Epik | 2 | 0 | `░░░░░░░░░░` %0 |
 | Western ve Eski Bati | 4 | 0 | `░░░░░░░░░░` %0 |
-| Yonetmenler | 8 | 8 | `██████████` %100 |
+| Yonetmenler | 10 | 10 | `██████████` %100 |
 
 ### 🎬 Yönetmen Kapsamı (Director Coverage)
 
 - **Stanley Kubrick:** 2 Film Analizi
 - **Francis Ford Coppola:** 2 Film Analizi
 - **Alfred Hitchcock:** 1 Film Analizi
+- **Park Chan-wook:** 1 Film Analizi
+- **Wong Kar-wai:** 1 Film Analizi
+- **David Fincher:** 1 Film Analizi
 - **Martin Scorsese:** 1 Film Analizi
 - **Quentin Tarantino:** 1 Film Analizi
 - **Ridley Scott:** 1 Film Analizi
 - **Ingmar Bergman:** 1 Film Analizi
-- **Andrei Tarkovsky:** 1 Film Analizi
+
 
 ## 🗺️ Stratejik Gelişim Matrisi (Yol Haritası)
 
 - [x] **Faz 1 - Çekirdek Altyapı:** Ana repo mimarisinin ve standartların kurulması.
 - [x] **Faz 2 - Analitik Dergi Ciltleri (Deep Dive):** Başyapıtların teknik analizlerle doldurulması.
 - [x] **Faz 3 - Auteur İndeksleri:** Dünya sinemasına yön veren yönetmen biyomlarının oluşturulması.
-- [/] **Faz 3.5 - Tarihsel Kırılma Noktaları:** Sinema akımlarının (Noir, Yeni Dalga vb.) arşive entegrasyonu.
+- [x] **Faz 3.5 - Tarihsel Kırılma Noktaları:** Sinema akımlarının (Noir, Yeni Dalga vb.) entegrasyonu.
 - [ ] **Faz 4 - UI / Web Mimarisine Çıkış:** Arşivin profesyonel bir Web Kütüphanesine dönüştürülmesi.
 
 ---

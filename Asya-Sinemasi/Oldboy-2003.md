@@ -1,31 +1,34 @@
 # Oldboy (2003)
 
-> "Filmin ruhunu veya ana temasını yansıtan, akılda kalıcı o meşhur replik buraya gelecek."
+> "Gülersen, dünya seninle birlikte güler. Ağlarsan, yalnız ağlarsın."
 
 ### 📋 Film Künyesi
-- **Yönetmen:** 
-- **Senarist:** 
-- **Başroller:** 
-- **Tür:** 
-- **Süre:** 
-- **IMDb / Metacritic:** 
+- **Yönetmen:** Park Chan-wook
+- **Senarist:** Hwang Jo-yun, Lim Jun-hyung, Park Chan-wook
+- **Başroller:** Choi Min-sik, Yoo Ji-tae, Kang Hye-jung
+- **Tür:** Neo-Noir, Psikolojik Gerilim, Dram
+- **Süre:** 120 Dakika
+- **IMDb / Metacritic:** 8.4 / 77
 
 ---
 
 ## 📌 Sinopsis ve Temel Çatışma
-Filmin olay örgüsü (plot) nedir? Sürpriz bozan (spoiler) kısımlara girmeden, ana karakterin amacı ve karşısındaki temel engel/çatışma nasıl şekilleniyor?
+Oh Dae-su, hiçbir açıklama yapılmadan kaçırılır ve 15 yıl boyunca bir odada hapsedilir. Aniden serbest bırakıldıktan sonra, kendisini kimin ve neden hapsettiğini bulmak için 5 günlük bir süreye sahiptir. Temel çatışma; Dae-su'nun hayvani bir intikam arzusu ile onu hapseden Lee Woo-jin'in çok daha sofistike, trajik ve yıkıcı olan planı arasındadır. Film, "intikamın nesnesi mi yoksa öznesi miyiz?" sorusunu sarsıcı bir finalle sorgular.
 
 ## 🎬 Görsel Mühendislik ve Kurgu (Video & Kurgu Analizi)
-Yönetmen ve görüntü yönetmeni bize ne anlatmak istiyor?
-- **Kamera Kullanımı:** Çekim açıları, lens tercihleri (örn: klostrofobik yakın çekimler).
-- **Renk Paleti:** Renklerin psikolojik kullanımı (örn: Matrix'teki yeşil tonlar).
-- **Kurgu Ritmi:** Sahneler arası geçişler, kurgunun temposu izleyiciyi nasıl yönlendiriyor?
+Park Chan-wook, şiddeti ve estetiği bir kılıç ustası gibi harmanlar.
+
+- **Kamera Kullanımı:** Meşhur "Koridor Dövüşü" sahnesi, görsel mühendisliğin zirvesidir. Tek bir plan sekans (long take) ve yandan görünümle (side-scrolling) çekilen bu sahne, video oyunlarındaki 2D estetiği sinematik bir çiğlikle birleştirir. Dae-su'nun yorgunluğunu ve şiddeti, kurgusal hileye başvurmadan izleyiciye hissettirir.
+- **Renk Paleti ve Dokular:** Yeşil ve toprak tonlarının hakimiyeti, Dae-su'nun hapis hayatının ve sosyal yabancılaşmasının bir yansımasıdır. Işık kullanımı, karakterlerin içindeki canavarı ve trajediyi vurgulayan sert kontrastlara sahiptir.
+- **Kurgu Ritmi:** Film, Dae-su'nun 15 yıllık hapsini bir dizi hızlı ve ritmik montajla geçerek izleyicinin zaman algısıyla oynar. Sahneler arası geçişler, özellikle Dae-su'nun geçmişine dönülen kısımlarda rüyamsı ve akıcı bir dokuya sahiptir.
 
 ## 🧠 Karakter Psikolojisi ve Felsefi Alt Metin
-Karakterlerin görünürdeki motivasyonlarının altındaki gerçek psikolojik itkiler neler? Film bize toplum, varoluş veya insan doğası ("The Human Spec") hakkında hangi soruları sorduruyor?
+Oldboy, bir "intikam trajedisi" olmanın ötesinde, Oedipus kompleksini modern ve karanlık bir bağlamda yeniden okur. Oh Dae-su, hapsedildiği sürede bir insandan bir "canavara" dönüşürken; intikamın aslında bir kurtuluş değil, bir başka hapishane olduğunu keşfeder. "Gerçek" kavramının anılar ve sırlar üzerinden parçalanması, filmin felsefi çekirdeğini oluşturur.
 
 ## 🎼 İşitsel Deneyim ve Müzik
-Ses tasarımı ve müzikler sahnelerin duygusunu nasıl manipüle ediyor? Çevresel seslerin (ambiyans) kullanımı ne kadar başarılı?
+Cho Young-wuk’un imzasını taşıyan valsler ve klasik müzik parçaları, görseldeki vahşetle ironik bir tezat oluşturur. Müziğin zarafeti, karakterlerin yaşadığı derin acıyı ve kadersel trajediyi daha da belirginleştirir. Ses tasarımı; ahtapot yeme sahnesi veya diş çekme sahnesindeki gibi fiziksel bir rahatsızlık hissini maksimize eder.
 
 ## 💡 Seyir Notları ve Çıkarımlar
-Kişisel değerlendirmeler. Filmin en güçlü yanı neydi? İzleyicide bıraktığı nihai his nedir? İzlemeyen birine bu film tek cümleyle nasıl satılır?
+Oldboy, Güney Kore sinemasının dünyaya vurduğu en sert ve en estetik tokatlardan biridir. Sadece bir gerilim değil, bir "sinematik cehennem azabı"dır.
+**Nihai His:** Sarsıcı bir şok, derin bir hüzün ve intikamın tadındaki o metalik kan hissi.
+*Tek cümleyle:* "Tek planda çekilen o koridor kavgası ve insan zihnini felç eden finaliyle, intikamın şiirsel ve yıkıcı anatomisi."
