@@ -2,15 +2,15 @@
 
 ### 📊 Arşiv Sağlık Matrisi (Archive Health Matrix)
 
-**Toplam Film:** 78 | **Tamamlanan Analiz:** 30 | **Doluluk Oranı:** %38.46
+**Toplam Film:** 83 | **Tamamlanan Analiz:** 36 | **Doluluk Oranı:** %43.37
 
 | Kategori | Toplam | Tamamlanan | İlerleme |
 | :--- | :---: | :---: | :--- |
-| Akimlar ve Donemler | 5 | 5 | `██████████` %100 |
-| Animasyon ve Cizgi Sinema | 4 | 0 | `░░░░░░░░░░` %0 |
+| Akimlar ve Donemler | 6 | 6 | `██████████` %100 |
+| Animasyon ve Cizgi Sinema | 5 | 1 | `██░░░░░░░░` %20 |
 | Asya Sinemasi | 6 | 3 | `█████░░░░░` %50 |
 | Avrupa Sinemasi | 4 | 1 | `██░░░░░░░░` %25 |
-| Bilim Kurgu ve Distopya | 7 | 2 | `██░░░░░░░░` %29 |
+| Bilim Kurgu ve Distopya | 8 | 3 | `███░░░░░░░` %38 |
 | Dram ve Suc | 9 | 2 | `██░░░░░░░░` %22 |
 | Fantastik ve Macera | 4 | 0 | `░░░░░░░░░░` %0 |
 | Korku ve Paranormal | 4 | 2 | `█████░░░░░` %50 |
@@ -19,16 +19,16 @@
 | Sanat ve Bagimsiz Sinema | 5 | 2 | `████░░░░░░` %40 |
 | Savas ve Antimilitarizm | 4 | 1 | `██░░░░░░░░` %25 |
 | Tarihi ve Epik | 2 | 0 | `░░░░░░░░░░` %0 |
-| Western ve Eski Bati | 4 | 0 | `░░░░░░░░░░` %0 |
-| Yonetmenler | 10 | 10 | `██████████` %100 |
+| Western ve Eski Bati | 4 | 1 | `██░░░░░░░░` %25 |
+| Yonetmenler | 12 | 12 | `██████████` %100 |
 
 ### 🎬 Yönetmen Kapsamı (Director Coverage)
 
 - **Stanley Kubrick:** 2 Film Analizi
 - **Francis Ford Coppola:** 2 Film Analizi
 - **Ridley Scott:** 1 Film Analizi
+- **Mamoru Oshii:** 1 Film Analizi
 - **David Fincher:** 1 Film Analizi
-- **Martin Scorsese:** 1 Film Analizi
 
 
-*Son Güncelleme: Cum 03.04.2026 13:50*
+*Son Güncelleme: Cum 03.04.2026 13:53*

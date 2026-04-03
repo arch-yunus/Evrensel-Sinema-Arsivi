@@ -38,39 +38,40 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 
 ## 🎞️ Çekirdek Külliyattan Öne Çıkanlar (Masterpieces)
 
+- 🏮 **Spirited Away (2001):** El çizimi animasyonun, Şintoizmin ve büyümenin o masalsı vizyonu.
+- 🤠 **The Good, the Bad and the Ugly (1966):** Western türünün operatik zirvesi ve Leone geometrisi.
+- 🐚 **Ghost in the Shell (1995):** Siberpunk felsefesinin ve dijital benlik arayışının miladı.
 - 🔨 **Oldboy (2003):** İntikamın dille ve çekiçle yazılmış o kanlı neo-noir şiiri.
 - 💃 **In the Mood for Love (2000):** Görsel melankolinin ve imkansız aşkın Wong Kar-wai zirvesi.
 - 📦 **Se7en (1995):** Yağmurlu ve yozlaşmış bir metropolde, yedi günahın ve karanlığın harmonisi.
-- 🚿 **Psycho (1960):** Sinemanın en ünlü cinayeti ve Hitchcock usulü görsel manipülasyon.
-- 🍔 **Pulp Fiction (1994):** Kronolojik yapının parçalandığı o benzersiz Tarantino klasiği.
 - 🌌 **2001: A Space Odyssey (1968):** Evrimin ve monolitin karanlık uzay senfonisi.
 - 🕴️ **The Godfather (1972):** Gücün ve ailenin kusursuz Amerikan operası.
 - ⚔️ **Seven Samurai (1954):** Kurosawa'nın epik aksiyon geometrisi.
-- 🎭 **Persona (1966):** Kimlik kavramını dekonstrükte eden klostrofobik labirent.
 
 ## 📂 Depo Hiyerarşisi ve Epistemolojik Ontolojisi
 
 ```text
 📦 Evrensel-Sinema-Arsivi
  ┣ 📂 Akimlar-ve-Donemler                                 — Sinema tarihinin devrimsel kırılma noktaları.
- ┃ ┣ 📜 Alman-Disavurumculugu.md                            — Gölgelerin ve çarpık mimarinin doğuşu.
- ┃ ┣ 📜 Kara-Film-Film-Noir.md                              — Suçun, sinizmin ve düşük ışığın zirvesi.
+ ┃ ┣ 📜 Spagetti-Western.md                                 — Tozun, terin ve düelloların İtalyan operası.
  ┃ ┣ 📜 Neo-Noir.md                                         — Modern noir estetiği ve neon ışıklı cinayetler.
- ┃ ┣ 📜 Fransiz-Yeni-Dalgasi.md                             — Sokağın ve özgür kurgunun manifestosu.
- ┃ ┗ 📜 Yeni-Hollywood.md                                   — Anti-kahramanların ve yönetmen sinemasının doğuşu.
- ┣ 📂 Asya-Sinemasi
- ┃ ┗ ... (Seven Samurai, Oldboy, In the Mood for Love vb.)
+ ┃ ┣ 📜 Kara-Film-Film-Noir.md                              — Suçun, sinizmin ve düşük ışığın zirvesi.
+ ┃ ┣ 📜 Alman-Disavurumculugu.md                            — Gölgelerin ve çarpık mimarinin doğuşu.
+ ┃ ┗ 📜 Fransiz-Yeni-Dalgasi.md                             — Sokağın ve özgür kurgunun manifestosu.
+ ┣ 📂 Animasyon-ve-Cizgi-Sinema
+ ┃ ┗ ... (Spirited Away, Ghost in the Shell, Lion King vb.)
+ ┣ 📂 Western-ve-Eski-Bati
+ ┃ ┗ ... (The Good, the Bad and the Ugly, Unforgiven vb.)
  ┣ 📂 Yonetmenler                                         — Arşivin dâhi mimarları ve sinematik imzaları.
+ ┃ ┣ 📜 Hayao-Miyazaki.md                                   — El çiziminin, doğanın ve çocuksu merakın ustası.
+ ┃ ┣ 📜 Sergio-Leone.md                                     — Aşırı yakın planların ve Vahşi Batı mitolojisinin dehası.
  ┃ ┣ 📜 Wong-Kar-wai.md                                     — Atmosferin, zamanın ve melankolinin şairi.
  ┃ ┣ 📜 Park-Chan-wook.md                                   — Vahşi güzelliğin ve intikamın estetiği.
  ┃ ┣ 📜 Alfred-Hitchcock.md                                 — Gerilimin ve görsel manipülasyonun efendisi.
  ┃ ┣ 📜 Martin-Scorsese.md                                  — Suçun, inancın ve kinetik kurgunun ozanı.
  ┃ ┣ 📜 Stanley-Kubrick.md                                  — Simetrinin ve mükemmeliyetin felsefesi.
  ┃ ┣ 📜 Andrei-Tarkovsky.md                                 — Zamanı mühürleyen şiirsel bir yolculuk.
- ┃ ┣ 📜 Akira-Kurosawa.md                                   — Aksiyonun ve doğanın geometrik efendisi.
- ┃ ┣ 📜 Francis-Ford-Coppola.md                             — Yeni Hollywood'un operatik dehası.
- ┃ ┣ 📜 Ingmar-Bergman.md                                   — İnsan ruhunun ve sessizliğin cerrahı.
- ┃ ┗ 📜 Christopher-Nolan.md                                — Zamanın ve kurgunun modern mimarı.
+ ┃ ┗ 📜 Akira-Kurosawa.md                                   — Aksiyonun ve doğanın geometrik efendisi.
  ┣ 📜 CONTRIBUTING.md (Kolektif Katkı Protokolü)
  ┣ 📜 LICENSE (MIT)
  ┣ 📜 SABLON.md (Standart İnceleme Modülü)
@@ -82,15 +83,15 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 > [!NOTE]
 > Bu bölüm `scripts/archive_analyzer.py` tarafından otomatik olarak güncellenmektedir.
 
-**Toplam Film:** 73 | **Tamamlanan Analiz:** 30 | **Doluluk Oranı:** %41.1
+**Toplam Film:** 75 | **Tamamlanan Analiz:** 36 | **Doluluk Oranı:** %48.0
 
 | Kategori | Toplam | Tamamlanan | İlerleme |
 | :--- | :---: | :---: | :--- |
-| Akimlar ve Donemler | 5 | 5 | `██████████` %100 |
-| Animasyon ve Cizgi Sinema | 4 | 0 | `░░░░░░░░░░` %0 |
+| Akimlar ve Donemler | 6 | 6 | `██████████` %100 |
+| Animasyon ve Cizgi Sinema | 5 | 2 | `████░░░░░░` %40 |
 | Asya Sinemasi | 6 | 3 | `█████░░░░░` %50 |
 | Avrupa Sinemasi | 4 | 1 | `██░░░░░░░░` %25 |
-| Bilim Kurgu ve Distopya | 7 | 2 | `██░░░░░░░░` %29 |
+| Bilim Kurgu ve Distopya | 8 | 3 | `███░░░░░░░` %38 |
 | Dram ve Suc | 9 | 2 | `██░░░░░░░░` %22 |
 | Fantastik ve Macera | 4 | 0 | `░░░░░░░░░░` %0 |
 | Korku ve Paranormal | 4 | 2 | `█████░░░░░` %50 |
@@ -99,21 +100,21 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 | Sanat ve Bagimsiz Sinema | 5 | 2 | `████░░░░░░` %40 |
 | Savas ve Antimilitarizm | 4 | 1 | `██░░░░░░░░` %25 |
 | Tarihi ve Epik | 2 | 0 | `░░░░░░░░░░` %0 |
-| Western ve Eski Bati | 4 | 0 | `░░░░░░░░░░` %0 |
-| Yonetmenler | 10 | 10 | `██████████` %100 |
+| Western ve Eski Bati | 4 | 1 | `██░░░░░░░░` %25 |
+| Yonetmenler | 12 | 12 | `██████████` %100 |
 
 ### 🎬 Yönetmen Kapsamı (Director Coverage)
 
 - **Stanley Kubrick:** 2 Film Analizi
 - **Francis Ford Coppola:** 2 Film Analizi
 - **Alfred Hitchcock:** 1 Film Analizi
+- **Hayao Miyazaki:** 1 Film Analizi
+- **Sergio Leone:** 1 Film Analizi
+- **Mamoru Oshii:** 1 Film Analizi
 - **Park Chan-wook:** 1 Film Analizi
 - **Wong Kar-wai:** 1 Film Analizi
 - **David Fincher:** 1 Film Analizi
 - **Martin Scorsese:** 1 Film Analizi
-- **Quentin Tarantino:** 1 Film Analizi
-- **Ridley Scott:** 1 Film Analizi
-- **Ingmar Bergman:** 1 Film Analizi
 
 
 ## 🗺️ Stratejik Gelişim Matrisi (Yol Haritası)
@@ -121,8 +122,8 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 - [x] **Faz 1 - Çekirdek Altyapı:** Ana repo mimarisinin ve standartların kurulması.
 - [x] **Faz 2 - Analitik Dergi Ciltleri (Deep Dive):** Başyapıtların teknik analizlerle doldurulması.
 - [x] **Faz 3 - Auteur İndeksleri:** Dünya sinemasına yön veren yönetmen biyomlarının oluşturulması.
-- [x] **Faz 3.5 - Tarihsel Kırılma Noktaları:** Sinema akımlarının (Noir, Yeni Dalga vb.) entegrasyonu.
-- [ ] **Faz 4 - UI / Web Mimarisine Çıkış:** Arşivin profesyonel bir Web Kütüphanesine dönüştürülmesi.
+- [x] **Faz 3.5 - Tarihsel Kırılma Noktaları:** Sinema akımlarının entegrasyonu.
+- [/] **Faz 4 - Yüzde 50 Eşiği ve Web Mimarisi:** Arşivin profesyonel bir Web Kütüphanesi için olgunlaşması.
 
 ---
 
