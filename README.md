@@ -38,15 +38,15 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 
 ## 🎞️ Çekirdek Külliyattan Öne Çıkanlar (Masterpieces)
 
+- 🌃 **Taxi Driver (1976):** Şehir yalnızlığının ve şiddetin sarsıcı Scorsese dekonstrüksiyonu.
+- 🚿 **Psycho (1960):** Sinemanın en ünlü cinayeti ve Hitchcock usulü görsel manipülasyon.
+- 🍔 **Pulp Fiction (1994):** Kronolojik yapının parçalandığı o benzersiz Tarantino klasiği.
 - 🌌 **2001: A Space Odyssey (1968):** Evrimin ve monolitin karanlık uzay senfonisi.
 - ☢️ **Stalker (1979):** Şiirsel sinemanın zirvesi olan "Bölge" (Zone) tasviri.
 - 🕴️ **The Godfather (1972):** Gücün ve ailenin kusursuz Amerikan operası.
-- 👁️ **City of God (2002):** Sokakların çiğ ve ritmik suç frekansı.
 - 🤠 **The Good, the Bad and the Ugly (1966):** Western türünün görsel mühendislik zirvesi.
 - ⚔️ **Seven Samurai (1954):** Kurosawa'nın epik aksiyon geometrisi.
 - 🎭 **Persona (1966):** Kimlik kavramını dekonstrükte eden klostrofobik labirent.
-- 🌃 **Blade Runner (1982):** Siberpunk estetiğinin melankolik neon noir inşası.
-- 🌊 **The 400 Blows (1959):** Fransız Yeni Dalgası'nın isyankar sokağa çıkış manifestosu.
 
 ## 📂 Depo Hiyerarşisi ve Epistemolojik Ontolojisi
 
@@ -54,19 +54,18 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 📦 Evrensel-Sinema-Arsivi
  ┣ 📂 Akimlar-ve-Donemler                                 — Sinema tarihinin devrimsel kırılma noktaları.
  ┃ ┣ 📜 Alman-Disavurumculugu.md                            — Gölgelerin ve çarpık mimarinin doğuşu.
+ ┃ ┣ 📜 Kara-Film-Film-Noir.md                              — Suçun, sinizmin ve düşük ışığın (low-key) zirvesi.
  ┃ ┣ 📜 Fransiz-Yeni-Dalgasi.md                             — Sokağın ve özgür kurgunun manifestosu.
  ┃ ┗ 📜 Yeni-Hollywood.md                                   — Anti-kahramanların ve yönetmen sinemasının doğuşu.
- ┣ 📂 Animasyon-ve-Cizgi-Sinema
- ┃ ┗ ... (Grave of the Fireflies, Spider-Verse vb.)
- ┣ 📂 Asya-Sinemasi
- ┃ ┗ ... (Seven Samurai, Parasite, Oldboy vb.)
- ┣ 📂 Avrupa-Sinemasi
- ┃ ┗ ... (The 400 Blows, Amelie, Life is Beautiful vb.)
- ┣ 📂 Bilim-Kurgu-ve-Distopya
- ┃ ┗ ... (Blade Runner, 2001, Matrix, Interstellar vb.)
  ┣ 📂 Dram-ve-Suc
  ┃ ┗ ... (The Godfather, Pulp Fiction, Goodfellas vb.)
+ ┣ 📂 Korku-ve-Paranormal
+ ┃ ┗ ... (Psycho, The Shining, Alien vb.)
+ ┣ 📂 Psikolojik-Gerilim-ve-Gizem
+ ┃ ┗ ... (Taxi Driver, Se7en, Shutter Island vb.)
  ┣ 📂 Yonetmenler                                         — Arşivin dâhi mimarları ve sinematik imzaları.
+ ┃ ┣ 📜 Alfred-Hitchcock.md                                 — Gerilimin ve görsel manipülasyonun efendisi.
+ ┃ ┣ 📜 Martin-Scorsese.md                                  — Suçun, inancın ve kinetik kurgunun ozanı.
  ┃ ┣ 📜 Stanley-Kubrick.md                                  — Simetrinin ve mükemmeliyetin felsefesi.
  ┃ ┣ 📜 Andrei-Tarkovsky.md                                 — Zamanı mühürleyen şiirsel bir yolculuk.
  ┃ ┣ 📜 Akira-Kurosawa.md                                   — Aksiyonun ve doğanın geometrik efendisi.
@@ -84,33 +83,35 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 > [!NOTE]
 > Bu bölüm `scripts/archive_analyzer.py` tarafından otomatik olarak güncellenmektedir.
 
-**Toplam Film:** 72 | **Tamamlanan Analiz:** 18 | **Doluluk Oranı:** %25.0
+**Toplam Film:** 73 | **Tamamlanan Analiz:** 24 | **Doluluk Oranı:** %32.88
 
 | Kategori | Toplam | Tamamlanan | İlerleme |
 | :--- | :---: | :---: | :--- |
-| Akimlar ve Donemler | 3 | 3 | `██████████` %100 |
+| Akimlar ve Donemler | 4 | 4 | `██████████` %100 |
 | Animasyon ve Cizgi Sinema | 4 | 0 | `░░░░░░░░░░` %0 |
 | Asya Sinemasi | 6 | 1 | `█░░░░░░░░░` %17 |
 | Avrupa Sinemasi | 4 | 1 | `██░░░░░░░░` %25 |
 | Bilim Kurgu ve Distopya | 7 | 2 | `██░░░░░░░░` %29 |
-| Dram ve Suc | 9 | 1 | `█░░░░░░░░░` %11 |
+| Dram ve Suc | 9 | 2 | `██░░░░░░░░` %22 |
 | Fantastik ve Macera | 4 | 0 | `░░░░░░░░░░` %0 |
-| Korku ve Paranormal | 4 | 1 | `██░░░░░░░░` %25 |
-| Psikolojik Gerilim ve Gizem | 6 | 0 | `░░░░░░░░░░` %0 |
+| Korku ve Paranormal | 4 | 2 | `█████░░░░░` %50 |
+| Psikolojik Gerilim ve Gizem | 6 | 1 | `█░░░░░░░░░` %17 |
 | Romantik ve Melodram | 4 | 0 | `░░░░░░░░░░` %0 |
 | Sanat ve Bagimsiz Sinema | 5 | 2 | `████░░░░░░` %40 |
 | Savas ve Antimilitarizm | 4 | 1 | `██░░░░░░░░` %25 |
 | Tarihi ve Epik | 2 | 0 | `░░░░░░░░░░` %0 |
 | Western ve Eski Bati | 4 | 0 | `░░░░░░░░░░` %0 |
-| Yonetmenler | 6 | 6 | `██████████` %100 |
+| Yonetmenler | 8 | 8 | `██████████` %100 |
 
 ### 🎬 Yönetmen Kapsamı (Director Coverage)
 
 - **Stanley Kubrick:** 2 Film Analizi
 - **Francis Ford Coppola:** 2 Film Analizi
-- **Ingmar Bergman:** 1 Film Analizi
+- **Alfred Hitchcock:** 1 Film Analizi
+- **Martin Scorsese:** 1 Film Analizi
+- **Quentin Tarantino:** 1 Film Analizi
 - **Ridley Scott:** 1 Film Analizi
-- **Akira Kurosawa:** 1 Film Analizi
+- **Ingmar Bergman:** 1 Film Analizi
 - **Andrei Tarkovsky:** 1 Film Analizi
 
 ## 🗺️ Stratejik Gelişim Matrisi (Yol Haritası)
@@ -118,8 +119,8 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 - [x] **Faz 1 - Çekirdek Altyapı:** Ana repo mimarisinin ve standartların kurulması.
 - [x] **Faz 2 - Analitik Dergi Ciltleri (Deep Dive):** Başyapıtların teknik analizlerle doldurulması.
 - [x] **Faz 3 - Auteur İndeksleri:** Dünya sinemasına yön veren yönetmen biyomlarının oluşturulması.
+- [/] **Faz 3.5 - Tarihsel Kırılma Noktaları:** Sinema akımlarının (Noir, Yeni Dalga vb.) arşive entegrasyonu.
 - [ ] **Faz 4 - UI / Web Mimarisine Çıkış:** Arşivin profesyonel bir Web Kütüphanesine dönüştürülmesi.
-- [ ] **Faz 5 - Topluluk Entegrasyonu:** Küresel sinefil katkılarına açılım.
 
 ---
 
