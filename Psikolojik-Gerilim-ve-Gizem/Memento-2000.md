@@ -1,31 +1,34 @@
 # Memento (2000)
 
-> "Filmin ruhunu veya ana temasını yansıtan, akılda kalıcı o meşhur replik buraya gelecek."
+> "Kendime yalan söylemeliyim ki mutlu olabileyim. Tıpkı hepiniz gibi."
 
 ### 📋 Film Künyesi
-- **Yönetmen:** 
-- **Senarist:** 
-- **Başroller:** 
-- **Tür:** 
-- **Süre:** 
-- **IMDb / Metacritic:** 
+- **Yönetmen:** Christopher Nolan
+- **Senarist:** Christopher Nolan (Jonathan Nolan'ın hikayesinden uyarlama)
+- **Başroller:** Guy Pearce, Carrie-Anne Moss, Joe Pantoliano
+- **Tür:** Psikolojik Gerilim, Gizem, Neo-Noir
+- **Süre:** 113 Dakika
+- **IMDb / Metacritic:** 8.4 / 80
 
 ---
 
 ## 📌 Sinopsis ve Temel Çatışma
-Filmin olay örgüsü (plot) nedir? Sürpriz bozan (spoiler) kısımlara girmeden, ana karakterin amacı ve karşısındaki temel engel/çatışma nasıl şekilleniyor?
+Leonard Shelby, kısa süreli hafıza kaybı yaşayan bir adamdır; karısının katilini bulmaya çalışırken her 15 dakikada bir her şeyi unutmaktadır. Vücuduna dövmeler yaparak ve polaroid fotoğraflar çekerek ipuçlarını takip eder. Temel çatışma; Leonard’ın kendi parçalanmış belleği ile çevresindeki insanların (Natalie ve Teddy) onu manipüle etme çabaları arasındadır. Film, "Gerçek, hatırladığımız şey midir yoksa kanıtladığımız şey mi?" sorusunu sorar.
 
 ## 🎬 Görsel Mühendislik ve Kurgu (Video & Kurgu Analizi)
-Yönetmen ve görüntü yönetmeni bize ne anlatmak istiyor?
-- **Kamera Kullanımı:** Çekim açıları, lens tercihleri (örn: klostrofobik yakın çekimler).
-- **Renk Paleti:** Renklerin psikolojik kullanımı (örn: Matrix'teki yeşil tonlar).
-- **Kurgu Ritmi:** Sahneler arası geçişler, kurgunun temposu izleyiciyi nasıl yönlendiriyor?
+Nolan, bu filmle sinematik anlatıda "Zaman" kavramını dekonstrükte etmiştir.
+
+- **Kurgusal Yapı (Geriye Doğru Anlatım):** Filmde iki ana hat vardır: Renkli sahneler sondan başa doğru (ters kronolojik), siyah-beyaz sahneler ise baştan sona doğru (düz kronolojik) akar. Bu iki hat filmin sonunda birleşir. Bu kurgusal mühendislik, izleyiciyi Leonard’ın kafa karışıklığına ortak eder; her sahnenin başında biz de karakter gibi "buraya nasıl geldim?" sorusunu sorarız.
+- **Dodd ve Polarod'lar:** Görsel imza olarak kullanılan Polaroid fotoğraflar, filmin epistemolojik (bilgi odaklı) yapısını temsil eder. Görüntünün yavaş yavaş belirmesi, Leonard'ın (ve izleyicinin) gerçeği yavaşça keşfetmesini simgeler.
+- **Renk ve Işık:** Siyah-beyaz bölümler belgeselvari bir nesnellik sunarken, renkli bölümler leonard'ın öznel ve kaotik dünyasını yansıtır.
 
 ## 🧠 Karakter Psikolojisi ve Felsefi Alt Metin
-Karakterlerin görünürdeki motivasyonlarının altındaki gerçek psikolojik itkiler neler? Film bize toplum, varoluş veya insan doğası ("The Human Spec") hakkında hangi soruları sorduruyor?
+Memento, kimlik inşasında belleğin rolü üzerine ağır bir felsefi tezdir. John Locke’un "kişilik, bilincin (belleğin) uzandığı yere kadardır" teorisini tartışmaya açar. Leonard, aslında gerçeği bulmak değil, hayatına bir "amaç" (intikam) katmak için kendi belleğini manipüle eden bir karakterdir. Film, insanın kendi gerçekliğini yaratma ve kendine yalan söyleme ihtiyacı üzerine karanlık bir bakış sunar.
 
 ## 🎼 İşitsel Deneyim ve Müzik
-Ses tasarımı ve müzikler sahnelerin duygusunu nasıl manipüle ediyor? Çevresel seslerin (ambiyans) kullanımı ne kadar başarılı?
+David Julyan’ın atmosferik ve minimalist müziği, Leonard’ın zihnindeki sisli ve belirsiz durumu yansıtır. Sürekli devam eden düşük frekanslı uğultular, bir döngünün içinde sıkışmışlık hissi yaratır. Ses tasarımı, sahneler arası geçişlerdeki sert kesmelerle ritmi belirler.
 
 ## 💡 Seyir Notları ve Çıkarımlar
-Kişisel değerlendirmeler. Filmin en güçlü yanı neydi? İzleyicide bıraktığı nihai his nedir? İzlemeyen birine bu film tek cümleyle nasıl satılır?
+Memento, aktif bir izleyici performansı gerektiren, sinemanın matematiksel ve kurgusal gücünün en saf örneklerinden biridir.
+**Nihai His:** Kendi zihninin içinde kaybolmuşluk ve adaletin imkansızlığına dair bir ürperti.
+*Tek cümleyle:* "Zamanın parçalandığı, belleğin ihanet ettiği ve gerçeğin bir dövme mürekkebinde gizlendiği, kurgu sanatının zirve noktalarından biri."

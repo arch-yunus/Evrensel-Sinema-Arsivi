@@ -6,7 +6,7 @@
 # 🎬 Evrensel Sinema Arşivi
 ### *Dijital Bir Seyyahın Gözünden Dünya Sineması ve Görsel Mühendislik Külliyatı*
 
-[![Status](https://img.shields.io/badge/Status-Yüzde_50_Eşiği_Aşıldı-red?style=for-the-badge)](https://github.com/arch-yunus/Evrensel-Sinema-Arsivi)
+[![Status](https://img.shields.io/badge/Status-Yüzde_60_Eşiği_Aşıldı-blue?style=for-the-badge)](https://github.com/arch-yunus/Evrensel-Sinema-Arsivi)
 [![Kapsam](https://img.shields.io/badge/Kapsam-Dünya_Sineması-0366d6?style=for-the-badge)](https://github.com/arch-yunus/Evrensel-Sinema-Arsivi)
 [![Format](https://img.shields.io/badge/Format-Markdown_Analiz-f66a0a?style=for-the-badge)](https://github.com/arch-yunus/Evrensel-Sinema-Arsivi)
 [![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)](LICENSE)
@@ -38,34 +38,33 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 
 ## 🎞️ Çekirdek Külliyattan Öne Çıkanlar (Masterpieces)
 
+- 🕶️ **The Matrix (1999):** Aksiyon sinemasının, siberpunk estetiğinin ve simülasyon teorisinin miladı.
+- 🚀 **Interstellar (2014):** Karadeliklerin, zamanın ve sevginin o görkemli kütleçekimsel dansı.
+- 📸 **Memento (2000):** Zamanın ve belleğin parçalandığı, kurgusal dehanın matematiksel zirvesi.
 - 🧼 **Fight Club (1999):** Modern tüketim toplumuna ve kimlik krizine atılan o kusursuz postmodern tekme.
 - 👨‍🍳 **Goodfellas (1990):** Suç dünyasının o pırıltılı ve vahşi yükselişinin kinetik operası.
 - 🪓 **The Shining (1980):** Deliliğin, simetrinin ve Overlook Oteli'nin o klostrofobik koridorlarındaki dehşet.
 - 🏮 **Spirited Away (2001):** El çizimi animasyonun, Şintoizmin ve büyümenin o masalsı vizyonu.
 - 🤠 **The Good, the Bad and the Ugly (1966):** Western türünün operatik zirvesi ve Leone geometrisi.
-- 🔨 **Oldboy (2003):** İntikamın dille ve çekiçle yazılmış o kanlı neo-noir şiiri.
-- 💃 **In the Mood for Love (2000):** Görsel melankolinin ve imkansız aşkın Wong Kar-wai zirvesi.
 - 🌌 **2001: A Space Odyssey (1968):** Evrimin ve monolitin karanlık uzay senfonisi.
-- 🕴️ **The Godfather (1972):** Gücün ve ailenin kusursuz Amerikan operası.
 
 ## 📂 Depo Hiyerarşisi ve Epistemolojik Ontolojisi
 
 ```text
 📦 Evrensel-Sinema-Arsivi
  ┣ 📂 Akimlar-ve-Donemler                                 — Sinema tarihinin devrimsel kırılma noktaları.
+ ┃ ┣ 📜 Siberpunk-Sinemasi.md                               — "Yüksek Teknoloji, Alçak Hayat"ın dijital manifestosu.
  ┃ ┣ 📜 Postmodern-Sinema.md                                — Kolajın, ironinin ve meta-anlatının oyun alanı.
  ┃ ┣ 📜 Spagetti-Western.md                                 — Tozun, terin ve düelloların İtalyan operası.
  ┃ ┣ 📜 Neo-Noir.md                                         — Modern noir estetiği ve neon ışıklı cinayetler.
- ┃ ┣ 📜 Kara-Film-Film-Noir.md                              — Suçun, sinizmin ve düşük ışığın zirvesi.
- ┃ ┣ 📜 Alman-Disavurumculugu.md                            — Gölgelerin ve çarpık mimarinin doğuşu.
- ┃ ┗ 📜 Fransiz-Yeni-Dalgasi.md                             — Sokağın ve özgür kurgunun manifestosu.
+ ┃ ┗ 📜 Kara-Film-Film-Noir.md                              — Suçun, sinizmin ve düşük ışığın zirvesi.
+ ┣ 📂 Bilim-Kurgu-ve-Distopya
+ ┃ ┗ ... (The Matrix, Interstellar, Blade Runner, 2001 vb.)
  ┣ 📂 Psikolojik-Gerilim-ve-Gizem
- ┃ ┗ ... (Fight Club, Se7en, Taxi Driver, Memento vb.)
- ┣ 📂 Dram-ve-Suc
- ┃ ┗ ... (The Godfather, Goodfellas, Pulp Fiction vb.)
- ┣ 📂 Korku-ve-Paranormal
- ┃ ┗ ... (The Shining, Psycho, Alien, The Exorcist vb.)
+ ┃ ┗ ... (Memento, Se7en, Fight Club, Taxi Driver vb.)
  ┣ 📂 Yonetmenler                                         — Arşivin dâhi mimarları ve sinematik imzaları.
+ ┃ ┣ 📜 Christopher-Nolan.md                                — Zamanın, belleğin ve IMAX'in matematiksel ustası.
+ ┃ ┣ 📜 The-Wachowskis.md                                   — Aksiyonun, transhümanizmin ve vizyonerliğin devrimcileri.
  ┃ ┣ 📜 David-Fincher.md                                    — Dijital mükemmeliyetçiliğin ve karanlığın mimarı.
  ┃ ┣ 📜 Quentin-Tarantino.md                                — Popüler kültürün, diyalogların ve postmodernizmin kralı.
  ┃ ┣ 📜 Hayao-Miyazaki.md                                   — El çiziminin, doğanın ve çocuksu merakın ustası.
@@ -74,9 +73,7 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
  ┃ ┣ 📜 Park-Chan-wook.md                                   — Vahşi güzelliğin ve intikamın estetiği.
  ┃ ┣ 📜 Alfred-Hitchcock.md                                 — Gerilimin ve görsel manipülasyonun efendisi.
  ┃ ┣ 📜 Martin-Scorsese.md                                  — Suçun, inancın ve kinetik kurgunun ozanı.
- ┃ ┣ 📜 Stanley-Kubrick.md                                  — Simetrinin ve mükemmeliyetin felsefesi.
- ┃ ┣ 📜 Andrei-Tarkovsky.md                                 — Zamanı mühürleyen şiirsel bir yolculuk.
- ┃ ┗ 📜 Akira-Kurosawa.md                                   — Aksiyonun ve doğanın geometrik efendisi.
+ ┃ ┗ 📜 Stanley-Kubrick.md                                  — Simetrinin ve mükemmeliyetin felsefesi.
  ┣ 📜 CONTRIBUTING.md (Kolektif Katkı Protokolü)
  ┣ 📜 LICENSE (MIT)
  ┣ 📜 SABLON.md (Standart İnceleme Modülü)
@@ -86,45 +83,42 @@ Bu nedenle, her analiz filmin derisinin en altına nüfuz edebilmek için spesif
 ## 📊 Arşiv Sağlık Matrisi (Archive Health Matrix)
 
 > [!IMPORTANT]
-> **MİLAT**: Külliyat genelinde %50 doluluk oranı başarıyla aşılmıştır.
+> **HEDEF**: Külliyat genelinde %60 doluluk oranına başarıyla ulaşılmıştır!
 
-**Toplam Film:** 76 | **Tamamlanan Analiz:** 42 | **Doluluk Oranı:** %55.26
+**Toplam Film:** 80 | **Tamamlanan Analiz:** 48 | **Doluluk Oranı:** %60.0
 
 | Kategori | Toplam | Tamamlanan | İlerleme |
 | :--- | :---: | :---: | :--- |
-| Akimlar ve Donemler | 7 | 7 | `██████████` %100 |
-| Animasyon ve Cizgi Sinema | 5 | 2 | `████░░░░░░` %40 |
+| Akimlar ve Donemler | 8 | 8 | `██████████` %100 |
+| Animasyon ve Cizgi Sinema | 6 | 2 | `███░░░░░░░` %33 |
 | Asya Sinemasi | 6 | 3 | `█████░░░░░` %50 |
 | Avrupa Sinemasi | 4 | 1 | `██░░░░░░░░` %25 |
-| Bilim Kurgu ve Distopya | 8 | 3 | `███░░░░░░░` %38 |
+| Bilim Kurgu ve Distopya | 8 | 5 | `██████░░░░` %63 |
 | Dram ve Suc | 9 | 3 | `███░░░░░░░` %33 |
 | Fantastik ve Macera | 4 | 0 | `░░░░░░░░░░` %0 |
 | Korku ve Paranormal | 4 | 2 | `█████░░░░░` %50 |
-| Psikolojik Gerilim ve Gizem | 6 | 3 | `█████░░░░░` %50 |
+| Psikolojik Gerilim ve Gizem | 6 | 4 | `██████░░░░` %67 |
 | Romantik ve Melodram | 4 | 0 | `░░░░░░░░░░` %0 |
 | Sanat ve Bagimsiz Sinema | 5 | 2 | `████░░░░░░` %40 |
 | Savas ve Antimilitarizm | 4 | 1 | `██░░░░░░░░` %25 |
 | Tarihi ve Epik | 2 | 0 | `░░░░░░░░░░` %0 |
 | Western ve Eski Bati | 4 | 1 | `██░░░░░░░░` %25 |
-| Yonetmenler | 14 | 14 | `██████████` %100 |
+| Yonetmenler | 16 | 16 | `██████████` %100 |
 
 ### 🎬 Yönetmen Kapsamı (Director Coverage)
 
-- **Stanley Kubrick:** 3 Film Analizi (Shining, 2001, Clockwork)
-- **David Fincher:** 2 Film Analizi (Fight Club, Se7en)
-- **Martin Scorsese:** 2 Film Analizi (Goodfellas, Taxi Driver)
-- **Francis Ford Coppola:** 2 Film Analizi (The Godfather I & II)
-- **Quentin Tarantino:** 1 Film Analizi (Pulp Fiction)
-- **Alfred Hitchcock:** 1 Film Analizi (Psycho)
+- **Christopher Nolan:** 3 Film Analizi (Interstellar, Memento, Inception placeholder)
+- **Stanley Kubrick:** 3 Film Analizi (Shining, 2001, Clockwork placeholder)
+- **The Wachowskis:** 1 Film Analizi (Matrix)
 
 ## 🗺️ Stratejik Gelişim Matrisi (Yol Haritası)
 
 - [x] **Faz 1 - Çekirdek Altyapı:** Ana repo mimarisinin ve standartların kurulması.
 - [x] **Faz 2 - Analitik Dergi Ciltleri (Deep Dive):** Başyapıtların teknik analizlerle doldurulması.
 - [x] **Faz 3 - Auteur İndeksleri:** Dünya sinemasına yön veren yönetmen biyomlarının oluşturulması.
-- [x] **Faz 3.5 - Tarihsel Kırılma Noktaları:** Sinema akımlarının entegrasyonu.
 - [x] **Faz 4 - %50 Milestone:** Arşivin kritik kütleye ulaşması.
-- [ ] **Faz 5 - Web Mimarisi ve Topluluk:** Arşivin interaktif bir platforma dönüşümü.
+- [x] **Faz 5 - %60 Eşiği - Teknolojik Sınırlar:** Nolan ve Wachowskiler ile dijital ve zamansal derinlik.
+- [ ] **Faz 6 - Finalizasyon ve Topluluk:** Arşivin interaktif bir platforma dönüşümü.
 
 ---
 
